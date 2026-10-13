@@ -1,0 +1,6 @@
+route_id,route_name,distance_km,stop_count,corridor
+R101,Corridor North,18.5,22,North-South
+R102,Airport Express,32.0,14,East Express
+R103,Downtown Loop,12.2,18,Central
+R104,Suburban Link,24.8,28,West-East
+R105,Tech Park Shuttle,15.0,16,South-East

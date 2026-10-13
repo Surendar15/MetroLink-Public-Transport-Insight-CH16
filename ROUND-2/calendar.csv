@@ -1,0 +1,31 @@
+date,weekday,is_weekend,is_holiday,event
+2026-09-01,Tuesday,0,0,None
+2026-09-02,Wednesday,0,0,None
+2026-09-03,Thursday,0,0,None
+2026-09-04,Friday,0,0,None
+2026-09-05,Saturday,1,1,None
+2026-09-06,Sunday,1,0,None
+2026-09-07,Monday,0,0,None
+2026-09-08,Tuesday,0,0,None
+2026-09-09,Wednesday,0,0,None
+2026-09-10,Thursday,0,0,None
+2026-09-11,Friday,0,0,None
+2026-09-12,Saturday,1,0,Tech Expo
+2026-09-13,Sunday,1,0,None
+2026-09-14,Monday,0,0,None
+2026-09-15,Tuesday,0,0,None
+2026-09-16,Wednesday,0,0,None
+2026-09-17,Thursday,0,0,None
+2026-09-18,Friday,0,0,None
+2026-09-19,Saturday,1,1,None
+2026-09-20,Sunday,1,0,Marathon
+2026-09-21,Monday,0,0,None
+2026-09-22,Tuesday,0,0,None
+2026-09-23,Wednesday,0,0,None
+2026-09-24,Thursday,0,0,None
+2026-09-25,Friday,0,0,None
+2026-09-26,Saturday,1,0,None
+2026-09-27,Sunday,1,0,Music Fest
+2026-09-28,Monday,0,0,None
+2026-09-29,Tuesday,0,0,None
+2026-09-30,Wednesday,0,0,None

@@ -1,0 +1,1201 @@
+trip_id,route_id,date,start_time,total_boardings,total_alightings,stops_serviced,route_name,distance_km,stop_count,corridor,weekday,is_weekend,is_holiday,event,scheduled_trips,completed_trips,delay_minutes,hour,is_rush_hour,has_special_event,passenger_density
+T1000,R105,2026-09-08,18:45,64,65,4,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,0.0,18,1,0,4.27
+T1001,R102,2026-09-26,17:45,61,50,5,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,4.0,17,1,0,1.91
+T1002,R103,2026-09-19,16:15,155,144,4,Downtown Loop,12.2,18,Central,Saturday,1,1,,1,1,11.0,16,0,0,12.7
+T1003,R105,2026-09-13,10:15,90,105,5,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,18.0,10,1,0,6.0
+T1004,R102,2026-09-12,09:45,81,87,3,Airport Express,32.0,14,East Express,Saturday,1,0,Tech Expo,1,1,1.0,9,1,1,2.53
+T1005,R103,2026-09-05,13:30,31,33,3,Downtown Loop,12.2,18,Central,Saturday,1,1,,1,1,4.0,13,0,0,2.54
+T1006,R103,2026-09-06,07:45,100,111,4,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,2.0,7,0,0,8.2
+T1007,R105,2026-09-26,14:30,170,163,5,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,,1,1,4.0,14,0,0,11.33
+T1008,R101,2026-09-22,07:00,107,104,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,7,0,0,5.78
+T1009,R102,2026-09-04,19:00,101,101,7,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,4.0,19,1,0,3.16
+T1010,R105,2026-09-19,11:45,131,135,5,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,2.0,11,0,0,8.73
+T1011,R102,2026-09-20,21:15,132,125,6,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,3.0,21,0,1,4.12
+T1012,R102,2026-09-01,09:45,41,45,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,22.0,9,1,0,1.28
+T1013,R103,2026-09-20,16:15,73,79,3,Downtown Loop,12.2,18,Central,Sunday,1,0,Marathon,1,1,5.0,16,0,1,5.98
+T1014,R102,2026-09-17,22:00,95,88,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,2.0,22,0,0,2.97
+T1015,R102,2026-09-12,13:45,160,149,5,Airport Express,32.0,14,East Express,Saturday,1,0,Tech Expo,1,1,12.0,13,0,1,5.0
+T1016,R104,2026-09-15,06:45,15,12,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,6.0,6,0,0,0.6
+T1017,R103,2026-09-01,08:15,137,130,7,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,1.0,8,1,0,11.23
+T1018,R101,2026-09-26,19:15,82,90,3,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,0.0,19,1,0,4.43
+T1019,R102,2026-09-14,08:15,166,176,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,9.0,8,1,0,5.19
+T1020,R104,2026-09-06,11:15,28,35,3,Suburban Link,24.8,28,West-East,Sunday,1,0,,1,1,1.0,11,0,0,1.13
+T1021,R104,2026-09-05,16:30,196,187,7,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,10.0,16,0,0,7.9
+T1022,R101,2026-09-30,17:15,107,108,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,10.0,17,1,0,5.78
+T1023,R102,2026-09-11,12:00,126,134,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,0.0,12,0,0,3.94
+T1024,R103,2026-09-04,19:00,126,123,6,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,4.0,19,1,0,10.33
+T1025,R101,2026-09-13,07:15,50,52,3,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,12.0,7,0,0,2.7
+T1026,R102,2026-09-11,12:45,51,61,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,2.0,12,0,0,1.59
+T1027,R101,2026-09-03,20:15,134,131,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,8.0,20,0,0,7.24
+T1028,R104,2026-09-01,14:45,107,106,4,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,7.0,14,0,0,4.31
+T1029,R103,2026-09-06,18:15,105,102,6,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,0.0,18,1,0,8.61
+T1030,R102,2026-09-18,06:30,81,81,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,2.0,6,0,0,2.53
+T1031,R101,2026-09-24,09:00,84,84,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,9,1,0,4.54
+T1032,R101,2026-09-10,10:00,135,136,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,4.0,10,1,0,7.3
+T1033,R102,2026-09-05,13:15,114,108,5,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,3.0,13,0,0,3.56
+T1034,R102,2026-09-23,19:15,178,174,5,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,0.0,19,1,0,5.56
+T1035,R105,2026-09-10,11:00,77,76,3,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,4.0,11,0,0,5.13
+T1036,R101,2026-09-12,06:30,155,158,6,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,4.0,6,0,1,8.38
+T1037,R102,2026-09-02,10:00,87,81,3,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,3.0,10,1,0,2.72
+T1038,R102,2026-09-13,06:30,48,47,4,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,4.0,6,0,0,1.5
+T1039,R105,2026-09-08,09:00,115,114,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,0.0,9,1,0,7.67
+T1040,R104,2026-09-02,05:45,87,77,5,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,19.0,5,0,0,3.51
+T1041,R104,2026-09-20,16:45,63,65,5,Suburban Link,24.8,28,West-East,Sunday,1,0,Marathon,1,1,1.0,16,0,1,2.54
+T1042,R105,2026-09-01,08:00,157,151,4,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,4.0,8,1,0,10.47
+T1043,R104,2026-09-05,19:30,174,170,6,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,4.0,19,1,0,7.02
+T1044,R102,2026-09-09,15:15,168,174,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,4.0,15,0,0,5.25
+T1045,R102,2026-09-17,07:15,92,90,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,10.0,7,0,0,2.88
+T1046,R105,2026-09-09,18:45,110,101,7,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,2.0,18,1,0,7.33
+T1047,R102,2026-09-11,14:00,129,140,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,4.0,14,0,0,4.03
+T1048,R101,2026-09-15,14:45,97,86,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,3.0,14,0,0,5.24
+T1049,R102,2026-09-24,13:00,131,137,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,13,0,0,4.09
+T1050,R103,2026-09-06,09:45,143,144,6,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,5.0,9,1,0,11.72
+T1051,R102,2026-09-23,12:30,34,34,3,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,6.0,12,0,0,1.06
+T1052,R105,2026-09-03,16:00,71,71,3,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,0.0,16,0,0,4.73
+T1053,R103,2026-09-30,15:00,132,134,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,10.0,15,0,0,10.82
+T1054,R101,2026-09-17,19:00,144,145,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,4.0,19,1,0,7.78
+T1055,R105,2026-09-05,16:00,119,127,7,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,3.0,16,0,0,7.93
+T1056,R101,2026-09-30,21:00,86,74,6,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,4.0,21,0,0,4.65
+T1057,R102,2026-09-28,16:45,175,169,6,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,3.0,16,0,0,5.47
+T1058,R101,2026-09-12,19:30,78,76,5,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,4.0,19,1,1,4.22
+T1059,R102,2026-09-18,10:45,65,68,6,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,0.0,10,1,0,2.03
+T1060,R104,2026-09-14,22:15,103,104,6,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,4.0,22,0,0,4.15
+T1061,R101,2026-09-21,06:00,93,87,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,2.0,6,0,0,5.03
+T1062,R101,2026-09-24,09:45,111,102,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,5.0,9,1,0,6.0
+T1063,R101,2026-09-11,05:30,174,167,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,0.0,5,0,0,9.41
+T1064,R101,2026-09-09,07:15,129,129,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,4.0,7,0,0,6.97
+T1065,R103,2026-09-02,09:00,134,144,6,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,2.0,9,1,0,10.98
+T1066,R101,2026-09-12,09:00,149,151,4,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,4.0,9,1,1,8.05
+T1067,R102,2026-09-03,21:30,37,39,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,0,2.0,21,0,0,1.16
+T1068,R102,2026-09-03,18:45,190,193,6,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,7.0,18,1,0,5.94
+T1069,R105,2026-09-01,14:45,137,134,7,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,1.0,14,0,0,9.13
+T1070,R102,2026-09-08,22:45,41,48,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,22,0,0,1.28
+T1071,R105,2026-09-22,15:15,121,130,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,8.0,15,0,0,8.07
+T1072,R102,2026-09-28,06:00,100,90,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,31.0,6,0,0,3.12
+T1073,R103,2026-09-29,22:00,92,84,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,9.0,22,0,0,7.54
+T1074,R105,2026-09-08,11:30,38,33,3,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,2.0,11,0,0,2.53
+T1075,R102,2026-09-11,19:30,147,148,7,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,4.0,19,1,0,4.59
+T1076,R104,2026-09-09,22:30,115,109,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,2.0,22,0,0,4.64
+T1077,R101,2026-09-05,16:15,131,137,5,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,4.0,16,0,0,7.08
+T1078,R102,2026-09-14,17:45,127,122,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,1.0,17,1,0,3.97
+T1079,R101,2026-09-28,20:15,94,90,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,7.0,20,0,0,5.08
+T1080,R102,2026-09-30,14:45,168,166,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,4.0,14,0,0,5.25
+T1081,R101,2026-09-03,12:15,111,108,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,0.0,12,0,0,6.0
+T1082,R104,2026-09-21,05:30,84,81,5,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,14.0,5,0,0,3.39
+T1083,R104,2026-09-05,12:00,140,144,5,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,3.0,12,0,0,5.65
+T1084,R104,2026-09-05,10:00,88,99,3,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,0.0,10,1,0,3.55
+T1085,R101,2026-09-19,19:15,111,107,5,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,2.0,19,1,0,6.0
+T1086,R102,2026-09-27,19:15,97,91,5,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,4.0,19,1,1,3.03
+T1087,R104,2026-09-14,05:30,118,118,4,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,4.0,5,0,0,4.76
+T1088,R103,2026-09-26,15:15,173,166,6,Downtown Loop,12.2,18,Central,Saturday,1,0,,1,1,5.0,15,0,0,14.18
+T1089,R105,2026-09-30,22:15,185,174,7,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,2.0,22,0,0,12.33
+T1090,R101,2026-09-04,21:15,184,178,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,2.0,21,0,0,9.95
+T1091,R101,2026-09-25,12:30,50,49,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,0.0,12,0,0,2.7
+T1092,R102,2026-09-13,12:00,119,104,5,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,1.0,12,0,0,3.72
+T1093,R101,2026-09-10,16:30,142,131,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,4.0,16,0,0,7.68
+T1094,R101,2026-09-25,12:00,128,126,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,0.0,12,0,0,6.92
+T1095,R104,2026-09-18,18:45,78,77,4,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,5.0,18,1,0,3.15
+T1096,R102,2026-09-08,05:00,132,126,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,1.0,5,0,0,4.12
+T1097,R104,2026-09-08,20:15,104,120,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,2.0,20,0,0,4.19
+T1098,R105,2026-09-07,20:00,68,62,4,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,4.0,20,0,0,4.53
+T1099,R105,2026-09-08,13:15,110,103,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,19.0,13,0,0,7.33
+T1100,R104,2026-09-14,06:15,156,145,6,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,3.0,6,0,0,6.29
+T1101,R105,2026-09-19,10:30,185,165,6,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,9.0,10,1,0,12.33
+T1102,R102,2026-09-29,13:00,79,75,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,7.0,13,0,0,2.47
+T1103,R101,2026-09-06,13:00,143,136,7,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,3.0,13,0,0,7.73
+T1104,R104,2026-09-01,20:00,55,48,4,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,6.0,20,0,0,2.22
+T1105,R103,2026-09-23,13:00,147,151,6,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,0.0,13,0,0,12.05
+T1106,R103,2026-09-15,17:30,68,70,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,2.0,17,1,0,5.57
+T1107,R101,2026-09-01,13:30,113,107,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,1.0,13,0,0,6.11
+T1108,R105,2026-09-25,08:15,85,88,5,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,3.0,8,1,0,5.67
+T1109,R103,2026-09-17,10:15,167,173,7,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,4.0,10,1,0,13.69
+T1110,R101,2026-09-01,08:15,127,115,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,8,1,0,6.86
+T1111,R101,2026-09-15,10:15,217,224,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,2.0,10,1,0,11.73
+T1112,R102,2026-09-23,22:00,28,22,3,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,3.0,22,0,0,0.88
+T1113,R102,2026-09-02,13:30,69,63,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,0.0,13,0,0,2.16
+T1114,R102,2026-09-14,17:30,203,205,6,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,13.0,17,1,0,6.34
+T1115,R103,2026-09-21,05:45,24,23,3,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,1.0,5,0,0,1.97
+T1116,R101,2026-09-08,11:00,111,112,7,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,5.0,11,0,0,6.0
+T1117,R103,2026-09-08,19:00,122,124,7,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,2.0,19,1,0,10.0
+T1118,R105,2026-09-19,16:15,103,108,4,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,12.0,16,0,0,6.87
+T1119,R103,2026-09-07,11:30,94,97,4,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,0.0,11,0,0,7.7
+T1120,R101,2026-09-19,05:00,96,108,6,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,0.0,5,0,0,5.19
+T1121,R101,2026-09-06,21:30,65,61,4,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,4.0,21,0,0,3.51
+T1122,R105,2026-09-06,16:15,50,43,3,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,1.0,16,0,0,3.33
+T1123,R101,2026-09-03,15:30,46,49,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,4.0,15,0,0,2.49
+T1124,R101,2026-09-07,12:15,96,89,3,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,3.0,12,0,0,5.19
+T1125,R102,2026-09-19,18:15,45,52,3,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,1.0,18,1,0,1.41
+T1126,R105,2026-09-08,06:15,189,181,7,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,1.0,6,0,0,12.6
+T1127,R102,2026-09-10,13:30,166,154,7,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,1.0,13,0,0,5.19
+T1128,R102,2026-09-20,12:45,160,156,7,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,0.0,12,0,1,5.0
+T1129,R101,2026-09-15,06:15,128,130,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,5.0,6,0,0,6.92
+T1130,R102,2026-09-15,16:00,143,142,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,3.0,16,0,0,4.47
+T1131,R102,2026-09-29,06:45,212,204,7,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,11.0,6,0,0,6.62
+T1132,R101,2026-09-01,09:30,178,165,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,0.0,9,1,0,9.62
+T1133,R102,2026-09-20,16:45,111,94,5,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,4.0,16,0,1,3.47
+T1134,R103,2026-09-30,19:30,100,93,4,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,0.0,19,1,0,8.2
+T1135,R101,2026-09-07,20:30,192,204,6,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,4.0,20,0,0,10.38
+T1136,R105,2026-09-27,10:15,58,61,3,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Music Fest,1,1,1.0,10,1,1,3.87
+T1137,R101,2026-09-04,22:45,38,34,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,1.0,22,0,0,2.05
+T1138,R101,2026-09-29,15:00,90,93,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,8.0,15,0,0,4.86
+T1139,R102,2026-09-06,15:30,137,136,6,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,7.0,15,0,0,4.28
+T1140,R105,2026-09-25,20:30,157,158,7,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,12.0,20,0,0,10.47
+T1141,R101,2026-09-01,19:00,71,72,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,3.0,19,1,0,3.84
+T1142,R102,2026-09-29,08:30,31,25,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,2.0,8,1,0,0.97
+T1143,R101,2026-09-05,19:45,58,56,4,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,7.0,19,1,0,3.14
+T1144,R101,2026-09-27,17:15,208,204,6,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,1.0,17,1,1,11.24
+T1145,R105,2026-09-23,06:15,71,74,3,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,2.0,6,0,0,4.73
+T1146,R105,2026-09-01,08:45,73,78,3,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,10.0,8,1,0,4.87
+T1147,R104,2026-09-30,18:30,49,43,3,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,6.0,18,1,0,1.98
+T1148,R103,2026-09-04,19:45,70,55,5,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,9.0,19,1,0,5.74
+T1149,R102,2026-09-22,07:45,110,113,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,7,0,0,3.44
+T1150,R102,2026-09-02,20:15,113,106,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,27.0,20,0,0,3.53
+T1151,R104,2026-09-10,08:15,80,78,3,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,5.0,8,1,0,3.23
+T1152,R102,2026-09-05,22:15,79,67,4,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,5.0,22,0,0,2.47
+T1153,R102,2026-09-27,21:00,49,47,2,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,0.0,21,0,1,1.53
+T1154,R101,2026-09-10,08:15,167,154,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,8,1,0,9.03
+T1155,R102,2026-09-01,15:30,165,160,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,7.0,15,0,0,5.16
+T1156,R103,2026-09-22,16:15,60,58,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,3.0,16,0,0,4.92
+T1157,R105,2026-09-06,11:00,57,60,3,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,1.0,11,0,0,3.8
+T1158,R104,2026-09-13,11:30,95,101,4,Suburban Link,24.8,28,West-East,Sunday,1,0,,1,1,4.0,11,0,0,3.83
+T1159,R102,2026-09-15,21:15,67,69,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,3.0,21,0,0,2.09
+T1160,R101,2026-09-04,14:45,150,142,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,26.0,14,0,0,8.11
+T1161,R103,2026-09-13,08:45,73,73,5,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,5.0,8,1,0,5.98
+T1162,R101,2026-09-24,08:15,109,99,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,3.0,8,1,0,5.89
+T1163,R105,2026-09-20,11:15,128,116,5,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Marathon,1,1,4.0,11,0,1,8.53
+T1164,R105,2026-09-24,05:45,66,69,6,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,0.0,5,0,0,4.4
+T1165,R104,2026-09-15,17:15,38,40,3,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,0.0,17,1,0,1.53
+T1166,R105,2026-09-29,19:30,115,113,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,3.0,19,1,0,7.67
+T1167,R102,2026-09-08,17:30,98,97,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,7.0,17,1,0,3.06
+T1168,R101,2026-09-05,13:15,72,63,3,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,2.0,13,0,0,3.89
+T1169,R105,2026-09-29,13:30,168,184,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,4.0,13,0,0,11.2
+T1170,R105,2026-09-15,14:45,35,35,3,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,2.0,14,0,0,2.33
+T1171,R101,2026-09-04,14:45,71,77,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,3.0,14,0,0,3.84
+T1172,R101,2026-09-12,20:00,47,45,3,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,16.0,20,0,1,2.54
+T1173,R102,2026-09-13,09:45,87,90,3,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,3.0,9,1,0,2.72
+T1174,R103,2026-09-02,22:45,103,103,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,4.0,22,0,0,8.44
+T1175,R102,2026-09-27,08:45,67,63,4,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,0.0,8,1,1,2.09
+T1176,R105,2026-09-19,11:15,78,79,5,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,0.0,11,0,0,5.2
+T1177,R105,2026-09-19,22:30,116,126,7,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,4.0,22,0,0,7.73
+T1178,R101,2026-09-04,08:15,76,72,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,0.0,8,1,0,4.11
+T1179,R102,2026-09-04,05:30,136,141,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,12.0,5,0,0,4.25
+T1180,R103,2026-09-26,22:00,158,153,6,Downtown Loop,12.2,18,Central,Saturday,1,0,,1,1,6.0,22,0,0,12.95
+T1181,R102,2026-09-11,19:00,61,55,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,2.0,19,1,0,1.91
+T1182,R104,2026-09-27,07:45,117,120,6,Suburban Link,24.8,28,West-East,Sunday,1,0,Music Fest,1,1,1.0,7,0,1,4.72
+T1183,R103,2026-09-05,06:00,140,131,6,Downtown Loop,12.2,18,Central,Saturday,1,1,,1,1,7.0,6,0,0,11.48
+T1184,R105,2026-09-20,21:15,87,99,7,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Marathon,1,1,1.0,21,0,1,5.8
+T1185,R105,2026-09-11,20:00,146,152,5,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,1.0,20,0,0,9.73
+T1186,R103,2026-09-30,19:30,113,107,6,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,0.0,19,1,0,9.26
+T1187,R105,2026-09-10,11:45,78,87,4,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,5.0,11,0,0,5.2
+T1188,R102,2026-09-08,15:15,51,60,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,1.0,15,0,0,1.59
+T1189,R103,2026-09-06,13:15,116,123,4,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,5.0,13,0,0,9.51
+T1190,R102,2026-09-06,17:00,93,82,3,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,3.0,17,1,0,2.91
+T1191,R103,2026-09-08,06:45,93,86,5,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,4.0,6,0,0,7.62
+T1192,R105,2026-09-23,07:30,137,134,7,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,1.0,7,0,0,9.13
+T1193,R102,2026-09-15,22:30,160,157,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,3.0,22,0,0,5.0
+T1194,R102,2026-09-26,14:15,113,118,6,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,3.0,14,0,0,3.53
+T1195,R104,2026-09-14,11:00,104,96,5,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,10.0,11,0,0,4.19
+T1196,R102,2026-09-11,21:30,114,118,7,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,7.0,21,0,0,3.56
+T1197,R101,2026-09-12,11:45,61,69,4,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,4.0,11,0,1,3.3
+T1198,R101,2026-09-26,18:30,47,48,3,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,3.0,18,1,0,2.54
+T1199,R103,2026-09-13,08:15,126,113,4,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,0.0,8,1,0,10.33
+T1200,R104,2026-09-08,10:15,154,159,7,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,4.0,10,1,0,6.21
+T1201,R101,2026-09-30,11:00,128,139,3,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,4.0,11,0,0,6.92
+T1202,R103,2026-09-18,18:45,136,125,5,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,0.0,18,1,0,11.15
+T1203,R104,2026-09-25,12:00,69,63,4,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,1.0,12,0,0,2.78
+T1204,R102,2026-09-01,05:45,40,45,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,10.0,5,0,0,1.25
+T1205,R102,2026-09-15,07:00,109,100,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,10.0,7,0,0,3.41
+T1206,R102,2026-09-08,12:00,112,117,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,2.0,12,0,0,3.5
+T1207,R102,2026-09-28,10:00,86,76,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,0.0,10,1,0,2.69
+T1208,R102,2026-09-11,11:45,81,77,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,0.0,11,0,0,2.53
+T1209,R104,2026-09-12,17:00,77,78,3,Suburban Link,24.8,28,West-East,Saturday,1,0,Tech Expo,1,1,0.0,17,1,1,3.1
+T1210,R104,2026-09-12,06:45,37,38,3,Suburban Link,24.8,28,West-East,Saturday,1,0,Tech Expo,1,1,0.0,6,0,1,1.49
+T1211,R102,2026-09-04,09:45,118,108,6,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,1.0,9,1,0,3.69
+T1212,R101,2026-09-16,12:15,163,158,7,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,1.0,12,0,0,8.81
+T1213,R105,2026-09-04,12:15,69,71,3,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,2.0,12,0,0,4.6
+T1214,R102,2026-09-05,07:15,122,109,6,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,0.0,7,0,0,3.81
+T1215,R101,2026-09-24,16:00,157,159,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,0.0,16,0,0,8.49
+T1216,R105,2026-09-05,07:15,105,107,5,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,0.0,7,0,0,7.0
+T1217,R104,2026-09-08,10:15,227,208,7,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,0.0,10,1,0,9.15
+T1218,R101,2026-09-10,16:15,83,83,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,5.0,16,0,0,4.49
+T1219,R101,2026-09-17,10:00,95,100,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,3.0,10,1,0,5.14
+T1220,R101,2026-09-28,07:15,114,120,5,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,4.0,7,0,0,6.16
+T1221,R102,2026-09-26,12:15,146,144,5,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,0.0,12,0,0,4.56
+T1222,R104,2026-09-09,16:15,27,25,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,12.0,16,0,0,1.09
+T1223,R101,2026-09-22,08:00,56,54,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,5.0,8,1,0,3.03
+T1224,R102,2026-09-19,17:00,110,114,5,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,2.0,17,1,0,3.44
+T1225,R103,2026-09-29,19:00,162,167,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,4.0,19,1,0,13.28
+T1226,R101,2026-09-14,20:15,118,127,7,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,2.0,20,0,0,6.38
+T1227,R102,2026-09-08,20:45,47,48,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,25.0,20,0,0,1.47
+T1228,R105,2026-09-09,21:45,109,101,5,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,6.0,21,0,0,7.27
+T1229,R104,2026-09-22,16:45,201,197,7,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,0.0,16,0,0,8.1
+T1230,R102,2026-09-11,07:45,103,105,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,7.0,7,0,0,3.22
+T1231,R101,2026-09-23,17:30,139,138,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,4.0,17,1,0,7.51
+T1232,R104,2026-09-01,12:15,98,96,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,7.0,12,0,0,3.95
+T1233,R103,2026-09-14,09:45,104,95,5,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,4.0,9,1,0,8.52
+T1234,R101,2026-09-05,12:45,132,131,5,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,4.0,12,0,0,7.14
+T1235,R102,2026-09-21,16:00,179,195,6,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,11.0,16,0,0,5.59
+T1236,R101,2026-09-26,10:15,194,192,6,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,1.0,10,1,0,10.49
+T1237,R102,2026-09-14,22:45,113,119,7,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,8.0,22,0,0,3.53
+T1238,R105,2026-09-04,11:45,166,169,7,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,18.0,11,0,0,11.07
+T1239,R102,2026-09-22,05:00,129,142,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,6.0,5,0,0,4.03
+T1240,R104,2026-09-23,20:45,75,77,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,3.0,20,0,0,3.02
+T1241,R101,2026-09-25,10:45,44,53,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,2.0,10,1,0,2.38
+T1242,R102,2026-09-01,06:00,104,112,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,6.0,6,0,0,3.25
+T1243,R101,2026-09-22,18:45,79,76,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,3.0,18,1,0,4.27
+T1244,R104,2026-09-23,05:30,94,85,3,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,4.0,5,0,0,3.79
+T1245,R101,2026-09-19,22:00,145,133,7,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,4.0,22,0,0,7.84
+T1246,R101,2026-09-08,06:00,123,120,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,3.0,6,0,0,6.65
+T1247,R102,2026-09-15,06:30,197,187,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,6,0,0,6.16
+T1248,R102,2026-09-21,13:00,176,160,7,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,1.0,13,0,0,5.5
+T1249,R104,2026-09-15,15:30,146,152,7,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,2.0,15,0,0,5.89
+T1250,R105,2026-09-09,08:15,50,54,3,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,4.0,8,1,0,3.33
+T1251,R101,2026-09-21,10:30,114,110,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,0.0,10,1,0,6.16
+T1252,R102,2026-09-09,15:30,64,73,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,7.0,15,0,0,2.0
+T1253,R101,2026-09-10,09:45,32,26,2,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,19.0,9,1,0,1.73
+T1254,R103,2026-09-20,14:45,83,88,6,Downtown Loop,12.2,18,Central,Sunday,1,0,Marathon,1,1,24.0,14,0,1,6.8
+T1255,R101,2026-09-25,19:00,152,157,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,0.0,19,1,0,8.22
+T1256,R101,2026-09-21,14:15,130,129,7,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,13.0,14,0,0,7.03
+T1257,R102,2026-09-26,22:00,120,113,4,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,0.0,22,0,0,3.75
+T1258,R101,2026-09-09,07:15,159,166,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,2.0,7,0,0,8.59
+T1259,R101,2026-09-03,14:15,155,149,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,0,2.0,14,0,0,8.38
+T1260,R101,2026-09-20,18:15,103,98,3,Corridor North,18.5,22,North-South,Sunday,1,0,Marathon,1,1,5.0,18,1,1,5.57
+T1261,R102,2026-09-25,07:45,77,78,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,4.0,7,0,0,2.41
+T1262,R104,2026-09-26,11:45,82,80,2,Suburban Link,24.8,28,West-East,Saturday,1,0,,1,1,33.0,11,0,0,3.31
+T1263,R105,2026-09-11,18:00,85,90,5,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,3.0,18,1,0,5.67
+T1264,R103,2026-09-06,19:00,109,102,5,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,0.0,19,1,0,8.93
+T1265,R101,2026-09-02,07:15,50,49,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,0.0,7,0,0,2.7
+T1266,R101,2026-09-07,06:30,18,19,3,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,0.0,6,0,0,0.97
+T1267,R102,2026-09-18,22:15,131,127,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,4.0,22,0,0,4.09
+T1268,R104,2026-09-27,22:45,176,176,5,Suburban Link,24.8,28,West-East,Sunday,1,0,Music Fest,1,1,9.0,22,0,1,7.1
+T1269,R101,2026-09-02,14:00,58,55,3,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,6.0,14,0,0,3.14
+T1270,R103,2026-09-27,06:00,80,78,3,Downtown Loop,12.2,18,Central,Sunday,1,0,Music Fest,1,1,10.0,6,0,1,6.56
+T1271,R102,2026-09-17,05:45,67,69,7,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,11.0,5,0,0,2.09
+T1272,R101,2026-09-11,18:00,61,62,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,1.0,18,1,0,3.3
+T1273,R104,2026-09-27,18:45,121,110,5,Suburban Link,24.8,28,West-East,Sunday,1,0,Music Fest,1,1,5.0,18,1,1,4.88
+T1274,R105,2026-09-12,18:00,23,25,3,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,Tech Expo,1,1,3.0,18,1,1,1.53
+T1275,R102,2026-09-27,07:30,119,120,5,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,0.0,7,0,1,3.72
+T1276,R105,2026-09-19,13:15,107,110,6,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,5.0,13,0,0,7.13
+T1277,R102,2026-09-22,17:00,128,121,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,1.0,17,1,0,4.0
+T1278,R102,2026-09-24,06:45,74,67,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,3.0,6,0,0,2.31
+T1279,R101,2026-09-25,06:45,119,113,7,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,0.0,6,0,0,6.43
+T1280,R105,2026-09-07,19:45,56,50,3,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,2.0,19,1,0,3.73
+T1281,R104,2026-09-20,17:45,98,93,5,Suburban Link,24.8,28,West-East,Sunday,1,0,Marathon,1,1,0.0,17,1,1,3.95
+T1282,R103,2026-09-06,16:45,111,101,5,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,7.0,16,0,0,9.1
+T1283,R102,2026-09-21,17:30,61,61,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,1.0,17,1,0,1.91
+T1284,R101,2026-09-24,18:45,124,140,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,18.0,18,1,0,6.7
+T1285,R104,2026-09-01,22:00,132,137,4,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,9.0,22,0,0,5.32
+T1286,R104,2026-09-17,10:45,120,105,5,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,1.0,10,1,0,4.84
+T1287,R102,2026-09-29,15:15,92,86,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,6.0,15,0,0,2.88
+T1288,R105,2026-09-11,06:45,81,82,5,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,4.0,6,0,0,5.4
+T1289,R101,2026-09-22,09:30,108,104,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,18.0,9,1,0,5.84
+T1290,R101,2026-09-26,06:15,124,109,6,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,1.0,6,0,0,6.7
+T1291,R102,2026-09-28,06:15,176,174,7,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,0.0,6,0,0,5.5
+T1292,R102,2026-09-18,15:15,44,50,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,0.0,15,0,0,1.38
+T1293,R104,2026-09-21,19:00,94,90,4,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,5.0,19,1,0,3.79
+T1294,R103,2026-09-17,13:30,100,95,4,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,4.0,13,0,0,8.2
+T1295,R102,2026-09-07,13:45,142,136,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,2.0,13,0,0,4.44
+T1296,R102,2026-09-17,18:30,134,137,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,6.0,18,1,0,4.19
+T1297,R102,2026-09-20,11:45,105,115,6,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,2.0,11,0,1,3.28
+T1298,R102,2026-09-09,20:45,130,129,5,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,0.0,20,0,0,4.06
+T1299,R102,2026-09-17,05:45,61,62,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,0.0,5,0,0,1.91
+T1300,R102,2026-09-20,08:30,243,237,7,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,4.0,8,1,1,7.59
+T1301,R101,2026-09-22,12:00,93,95,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,7.0,12,0,0,5.03
+T1302,R102,2026-09-22,09:30,174,168,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,17.0,9,1,0,5.44
+T1303,R105,2026-09-28,08:45,117,113,6,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,0.0,8,1,0,7.8
+T1304,R102,2026-09-29,10:30,60,52,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,10,1,0,1.88
+T1305,R102,2026-09-08,22:30,114,113,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,6.0,22,0,0,3.56
+T1306,R105,2026-09-17,09:45,137,142,6,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,13.0,9,1,0,9.13
+T1307,R102,2026-09-07,07:30,140,146,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,4.0,7,0,0,4.38
+T1308,R101,2026-09-01,18:30,125,118,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,0.0,18,1,0,6.76
+T1309,R101,2026-09-13,09:00,146,150,5,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,4.0,9,1,0,7.89
+T1310,R105,2026-09-30,09:15,142,146,5,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,0.0,9,1,0,9.47
+T1311,R101,2026-09-23,06:15,125,116,6,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,20.0,6,0,0,6.76
+T1312,R101,2026-09-19,10:30,94,101,3,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,1.0,10,1,0,5.08
+T1313,R102,2026-09-27,14:30,129,130,5,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,11.0,14,0,1,4.03
+T1314,R102,2026-09-24,11:00,32,32,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,5.0,11,0,0,1.0
+T1315,R101,2026-09-19,05:00,129,127,4,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,1.0,5,0,0,6.97
+T1316,R101,2026-09-30,22:00,79,77,2,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,17.0,22,0,0,4.27
+T1317,R101,2026-09-30,22:00,72,62,3,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,1.0,22,0,0,3.89
+T1318,R105,2026-09-29,17:45,102,99,4,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,4.0,17,1,0,6.8
+T1319,R105,2026-09-17,08:00,115,106,3,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,11.0,8,1,0,7.67
+T1320,R104,2026-09-13,07:00,165,163,7,Suburban Link,24.8,28,West-East,Sunday,1,0,,1,1,4.0,7,0,0,6.65
+T1321,R101,2026-09-29,15:30,58,62,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,10.0,15,0,0,3.14
+T1322,R102,2026-09-30,08:15,150,157,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,11.0,8,1,0,4.69
+T1323,R105,2026-09-16,20:45,29,24,2,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,7.0,20,0,0,1.93
+T1324,R102,2026-09-08,22:45,109,99,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,9.0,22,0,0,3.41
+T1325,R101,2026-09-19,07:00,158,159,3,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,8.0,7,0,0,8.54
+T1326,R101,2026-09-18,10:15,72,76,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,25.0,10,1,0,3.89
+T1327,R102,2026-09-01,14:00,118,104,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,6.0,14,0,0,3.69
+T1328,R102,2026-09-14,21:00,88,83,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,7.0,21,0,0,2.75
+T1329,R101,2026-09-19,21:45,132,139,7,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,0.0,21,0,0,7.14
+T1330,R101,2026-09-15,13:00,82,65,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,10.0,13,0,0,4.43
+T1331,R101,2026-09-18,05:15,92,91,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,1.0,5,0,0,4.97
+T1332,R104,2026-09-02,20:00,152,158,5,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,10.0,20,0,0,6.13
+T1333,R102,2026-09-22,05:15,104,110,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,16.0,5,0,0,3.25
+T1334,R103,2026-09-28,22:15,136,134,4,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,1.0,22,0,0,11.15
+T1335,R103,2026-09-17,12:00,130,136,6,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,7.0,12,0,0,10.66
+T1336,R102,2026-09-18,15:30,97,93,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,7.0,15,0,0,3.03
+T1337,R105,2026-09-30,06:45,112,112,5,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,1.0,6,0,0,7.47
+T1338,R101,2026-09-06,12:00,121,120,5,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,5.0,12,0,0,6.54
+T1339,R101,2026-09-19,19:00,68,71,4,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,4.0,19,1,0,3.68
+T1340,R102,2026-09-04,17:30,174,178,7,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,3.0,17,1,0,5.44
+T1341,R102,2026-09-01,09:45,152,144,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,9,1,0,4.75
+T1342,R102,2026-09-08,16:00,156,149,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,1.0,16,0,0,4.88
+T1343,R102,2026-09-29,09:45,108,107,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,9,1,0,3.38
+T1344,R104,2026-09-23,17:45,149,144,6,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,2.0,17,1,0,6.01
+T1345,R101,2026-09-07,15:00,83,89,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,0.0,15,0,0,4.49
+T1346,R102,2026-09-03,17:30,143,152,5,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,0.0,17,1,0,4.47
+T1347,R102,2026-09-10,07:45,117,119,6,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,7,0,0,3.66
+T1348,R101,2026-09-10,21:00,197,189,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,21,0,0,10.65
+T1349,R102,2026-09-19,12:15,153,143,7,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,0.0,12,0,0,4.78
+T1350,R104,2026-09-14,18:45,20,15,3,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,5.0,18,1,0,0.81
+T1351,R102,2026-09-02,15:45,61,51,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,0.0,15,0,0,1.91
+T1352,R104,2026-09-28,19:30,56,46,4,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,0.0,19,1,0,2.26
+T1353,R102,2026-09-01,11:30,84,80,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,14.0,11,0,0,2.62
+T1354,R104,2026-09-23,15:15,63,66,3,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,11.0,15,0,0,2.54
+T1355,R101,2026-09-23,09:00,97,106,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,11.0,9,1,0,5.24
+T1356,R102,2026-09-28,12:45,43,49,3,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,12.0,12,0,0,1.34
+T1357,R101,2026-09-18,14:15,183,183,7,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,8.0,14,0,0,9.89
+T1358,R103,2026-09-07,19:45,167,157,5,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,4.0,19,1,0,13.69
+T1359,R101,2026-09-29,20:45,98,111,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,6.0,20,0,0,5.3
+T1360,R104,2026-09-08,21:30,117,107,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,2.0,21,0,0,4.72
+T1361,R101,2026-09-01,12:45,127,132,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,12.0,12,0,0,6.86
+T1362,R101,2026-09-25,12:00,145,150,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,3.0,12,0,0,7.84
+T1363,R104,2026-09-23,13:15,179,168,6,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,3.0,13,0,0,7.22
+T1364,R102,2026-09-03,19:15,122,126,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,2.0,19,1,0,3.81
+T1365,R103,2026-09-24,07:00,55,49,3,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,18.0,7,0,0,4.51
+T1366,R101,2026-09-23,08:15,84,83,3,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,7.0,8,1,0,4.54
+T1367,R102,2026-09-27,08:15,74,72,2,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,1.0,8,1,1,2.31
+T1368,R101,2026-09-29,13:00,105,84,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,0.0,13,0,0,5.68
+T1369,R102,2026-09-08,22:15,104,106,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,22,0,0,3.25
+T1370,R101,2026-09-22,08:45,67,64,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,9.0,8,1,0,3.62
+T1371,R104,2026-09-25,12:15,172,180,6,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,39.0,12,0,0,6.94
+T1372,R103,2026-09-15,17:00,51,43,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,6.0,17,1,0,4.18
+T1373,R102,2026-09-05,20:45,120,111,5,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,0.0,20,0,0,3.75
+T1374,R105,2026-09-03,06:30,77,87,2,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,1.0,6,0,0,5.13
+T1375,R102,2026-09-19,14:30,85,80,5,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,17.0,14,0,0,2.66
+T1376,R101,2026-09-01,21:45,119,105,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,0.0,21,0,0,6.43
+T1377,R101,2026-09-28,22:30,125,123,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,5.0,22,0,0,6.76
+T1378,R102,2026-09-15,13:00,31,35,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,1.0,13,0,0,0.97
+T1379,R102,2026-09-08,12:30,43,46,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,1.0,12,0,0,1.34
+T1380,R102,2026-09-02,18:45,177,177,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,3.0,18,1,0,5.53
+T1381,R104,2026-09-03,22:15,119,118,4,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,2.0,22,0,0,4.8
+T1382,R105,2026-09-24,16:45,93,100,5,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,12.0,16,0,0,6.2
+T1383,R104,2026-09-14,18:00,142,127,6,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,0.0,18,1,0,5.73
+T1384,R104,2026-09-24,07:15,44,45,2,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,9.0,7,0,0,1.77
+T1385,R104,2026-09-14,11:00,159,159,6,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,0.0,11,0,0,6.41
+T1386,R104,2026-09-11,16:00,69,69,3,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,4.0,16,0,0,2.78
+T1387,R104,2026-09-16,19:15,140,138,6,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,6.0,19,1,0,5.65
+T1388,R103,2026-09-04,17:15,143,147,5,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,1.0,17,1,0,11.72
+T1389,R102,2026-09-20,12:15,72,81,3,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,0.0,12,0,1,2.25
+T1390,R104,2026-09-05,12:15,122,117,3,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,3.0,12,0,0,4.92
+T1391,R102,2026-09-22,11:30,90,96,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,11,0,0,2.81
+T1392,R102,2026-09-21,16:45,110,115,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,5.0,16,0,0,3.44
+T1393,R101,2026-09-14,15:45,57,60,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,5.0,15,0,0,3.08
+T1394,R103,2026-09-23,15:00,82,81,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,7.0,15,0,0,6.72
+T1395,R104,2026-09-16,17:15,99,95,6,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,0.0,17,1,0,3.99
+T1396,R101,2026-09-18,06:00,40,38,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,17.0,6,0,0,2.16
+T1397,R102,2026-09-07,19:45,45,34,3,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,7.0,19,1,0,1.41
+T1398,R105,2026-09-10,22:30,113,115,5,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,4.0,22,0,0,7.53
+T1399,R101,2026-09-07,19:30,60,56,3,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,11.0,19,1,0,3.24
+T1400,R103,2026-09-01,16:00,126,126,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,2.0,16,0,0,10.33
+T1401,R102,2026-09-23,15:00,145,132,5,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,3.0,15,0,0,4.53
+T1402,R103,2026-09-21,05:45,132,128,5,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,5.0,5,0,0,10.82
+T1403,R102,2026-09-19,07:30,181,183,7,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,4.0,7,0,0,5.66
+T1404,R102,2026-09-16,11:45,45,30,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,8.0,11,0,0,1.41
+T1405,R102,2026-09-29,19:00,103,98,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,11.0,19,1,0,3.22
+T1406,R101,2026-09-19,09:30,24,21,3,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,9.0,9,1,0,1.3
+T1407,R101,2026-09-04,12:15,161,159,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,18.0,12,0,0,8.7
+T1408,R102,2026-09-29,20:45,83,78,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,14.0,20,0,0,2.59
+T1409,R102,2026-09-28,05:45,107,97,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,0.0,5,0,0,3.34
+T1410,R104,2026-09-18,09:30,147,149,5,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,5.0,9,1,0,5.93
+T1411,R103,2026-09-02,05:45,42,38,3,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,4.0,5,0,0,3.44
+T1412,R104,2026-09-01,12:30,81,72,3,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,1.0,12,0,0,3.27
+T1413,R103,2026-09-15,14:15,97,94,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,2.0,14,0,0,7.95
+T1414,R104,2026-09-05,15:00,151,143,6,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,6.0,15,0,0,6.09
+T1415,R102,2026-09-20,14:00,67,70,5,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,31.0,14,0,1,2.09
+T1416,R102,2026-09-11,18:30,148,136,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,10.0,18,1,0,4.62
+T1417,R101,2026-09-10,06:00,102,95,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,11.0,6,0,0,5.51
+T1418,R103,2026-09-02,20:00,78,66,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,1.0,20,0,0,6.39
+T1419,R103,2026-09-03,13:45,119,116,4,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,11.0,13,0,0,9.75
+T1420,R101,2026-09-23,08:15,88,86,3,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,21.0,8,1,0,4.76
+T1421,R104,2026-09-23,14:15,129,134,5,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,1.0,14,0,0,5.2
+T1422,R103,2026-09-12,16:00,119,122,5,Downtown Loop,12.2,18,Central,Saturday,1,0,Tech Expo,1,1,5.0,16,0,1,9.75
+T1423,R105,2026-09-20,18:15,94,96,6,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Marathon,1,1,1.0,18,1,1,6.27
+T1424,R102,2026-09-05,06:00,66,63,3,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,1.0,6,0,0,2.06
+T1425,R102,2026-09-05,15:45,135,122,7,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,0.0,15,0,0,4.22
+T1426,R101,2026-09-06,10:45,39,36,3,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,6.0,10,1,0,2.11
+T1427,R102,2026-09-30,09:15,103,101,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,0.0,9,1,0,3.22
+T1428,R105,2026-09-09,08:30,143,132,6,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,6.0,8,1,0,9.53
+T1429,R103,2026-09-02,08:45,142,144,7,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,14.0,8,1,0,11.64
+T1430,R103,2026-09-21,14:45,28,30,3,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,21.0,14,0,0,2.3
+T1431,R105,2026-09-12,07:15,79,83,7,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,Tech Expo,1,1,2.0,7,0,1,5.27
+T1432,R101,2026-09-03,09:15,26,25,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,4.0,9,1,0,1.41
+T1433,R102,2026-09-20,12:30,155,156,4,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,6.0,12,0,1,4.84
+T1434,R101,2026-09-26,14:15,191,175,6,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,1.0,14,0,0,10.32
+T1435,R101,2026-09-22,18:45,152,152,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,6.0,18,1,0,8.22
+T1436,R101,2026-09-12,17:45,116,108,4,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,1.0,17,1,1,6.27
+T1437,R105,2026-09-24,21:30,106,107,5,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,1.0,21,0,0,7.07
+T1438,R104,2026-09-17,11:45,162,156,7,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,18.0,11,0,0,6.53
+T1439,R101,2026-09-10,18:30,64,65,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,2.0,18,1,0,3.46
+T1440,R102,2026-09-30,09:45,111,116,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,3.0,9,1,0,3.47
+T1441,R104,2026-09-24,08:45,65,66,3,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,4.0,8,1,0,2.62
+T1442,R101,2026-09-27,06:15,91,98,7,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,3.0,6,0,1,4.92
+T1443,R105,2026-09-14,22:30,185,172,6,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,4.0,22,0,0,12.33
+T1444,R104,2026-09-23,21:30,91,83,3,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,1.0,21,0,0,3.67
+T1445,R105,2026-09-17,18:30,79,68,3,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,2.0,18,1,0,5.27
+T1446,R101,2026-09-18,17:45,183,180,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,34.0,17,1,0,9.89
+T1447,R105,2026-09-19,10:00,92,87,3,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,0.0,10,1,0,6.13
+T1448,R102,2026-09-17,08:45,46,53,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,8,1,0,1.44
+T1449,R101,2026-09-14,20:00,166,157,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,5.0,20,0,0,8.97
+T1450,R101,2026-09-09,08:15,190,193,6,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,5.0,8,1,0,10.27
+T1451,R101,2026-09-08,21:30,92,93,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,3.0,21,0,0,4.97
+T1452,R101,2026-09-02,05:15,74,69,6,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,15.0,5,0,0,4.0
+T1453,R101,2026-09-13,21:30,200,209,6,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,4.0,21,0,0,10.81
+T1454,R101,2026-09-25,19:30,151,151,7,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,4.0,19,1,0,8.16
+T1455,R102,2026-09-07,17:00,92,89,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,17.0,17,1,0,2.88
+T1456,R104,2026-09-09,21:15,72,64,3,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,11.0,21,0,0,2.9
+T1457,R105,2026-09-22,08:45,143,140,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,1.0,8,1,0,9.53
+T1458,R103,2026-09-22,20:30,86,89,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,13.0,20,0,0,7.05
+T1459,R101,2026-09-11,19:15,75,73,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,6.0,19,1,0,4.05
+T1460,R105,2026-09-14,19:15,114,109,4,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,6.0,19,1,0,7.6
+T1461,R101,2026-09-04,15:30,44,37,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,3.0,15,0,0,2.38
+T1462,R102,2026-09-26,13:15,33,33,3,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,0.0,13,0,0,1.03
+T1463,R101,2026-09-26,20:00,106,89,6,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,4.0,20,0,0,5.73
+T1464,R101,2026-09-29,14:15,169,163,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,3.0,14,0,0,9.14
+T1465,R103,2026-09-13,07:00,124,121,5,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,4.0,7,0,0,10.16
+T1466,R102,2026-09-02,15:00,82,88,5,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,9.0,15,0,0,2.56
+T1467,R101,2026-09-23,17:15,55,55,2,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,9.0,17,1,0,2.97
+T1468,R105,2026-09-05,21:30,85,84,5,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,0.0,21,0,0,5.67
+T1469,R101,2026-09-11,17:30,33,24,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,2.0,17,1,0,1.78
+T1470,R102,2026-09-06,14:30,120,134,4,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,8.0,14,0,0,3.75
+T1471,R103,2026-09-18,18:15,121,122,5,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,0.0,18,1,0,9.92
+T1472,R102,2026-09-21,09:00,81,88,7,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,1.0,9,1,0,2.53
+T1473,R101,2026-09-10,09:45,128,133,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,17.0,9,1,0,6.92
+T1474,R104,2026-09-04,21:00,50,55,4,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,15.0,21,0,0,2.02
+T1475,R104,2026-09-09,14:45,103,104,6,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,6.0,14,0,0,4.15
+T1476,R102,2026-09-06,09:45,89,88,3,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,5.0,9,1,0,2.78
+T1477,R102,2026-09-02,10:15,138,145,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,7.0,10,1,0,4.31
+T1478,R105,2026-09-17,08:15,96,84,4,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,0.0,8,1,0,6.4
+T1479,R105,2026-09-05,11:30,126,128,5,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,3.0,11,0,0,8.4
+T1480,R102,2026-09-25,22:30,77,78,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,18.0,22,0,0,2.41
+T1481,R101,2026-09-06,05:45,64,55,3,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,0.0,5,0,0,3.46
+T1482,R101,2026-09-26,08:15,159,160,6,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,2.0,8,1,0,8.59
+T1483,R105,2026-09-12,13:15,111,116,4,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,Tech Expo,1,1,0.0,13,0,1,7.4
+T1484,R105,2026-09-23,18:45,80,75,5,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,7.0,18,1,0,5.33
+T1485,R104,2026-09-21,16:45,43,37,3,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,4.0,16,0,0,1.73
+T1486,R102,2026-09-10,08:00,67,61,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,0.0,8,1,0,2.09
+T1487,R101,2026-09-22,16:15,151,148,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,16,0,0,8.16
+T1488,R101,2026-09-21,11:30,88,92,6,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,8.0,11,0,0,4.76
+T1489,R105,2026-09-27,18:45,52,46,3,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Music Fest,1,1,2.0,18,1,1,3.47
+T1490,R104,2026-09-25,14:45,60,61,3,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,6.0,14,0,0,2.42
+T1491,R103,2026-09-06,20:15,127,127,6,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,4.0,20,0,0,10.41
+T1492,R104,2026-09-27,14:00,72,74,4,Suburban Link,24.8,28,West-East,Sunday,1,0,Music Fest,1,1,0.0,14,0,1,2.9
+T1493,R101,2026-09-08,17:15,137,139,4,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,2.0,17,1,0,7.41
+T1494,R101,2026-09-02,16:00,147,143,6,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,0.0,16,0,0,7.95
+T1495,R104,2026-09-12,17:45,64,53,4,Suburban Link,24.8,28,West-East,Saturday,1,0,Tech Expo,1,1,4.0,17,1,1,2.58
+T1496,R101,2026-09-13,15:45,69,75,3,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,8.0,15,0,0,3.73
+T1497,R102,2026-09-25,22:15,85,78,6,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,8.0,22,0,0,2.66
+T1498,R101,2026-09-21,15:00,47,41,2,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,7.0,15,0,0,2.54
+T1499,R104,2026-09-07,08:15,131,132,4,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,0.0,8,1,0,5.28
+T1500,R105,2026-09-10,05:30,100,98,5,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,13.0,5,0,0,6.67
+T1501,R104,2026-09-13,11:15,146,148,7,Suburban Link,24.8,28,West-East,Sunday,1,0,,1,1,9.0,11,0,0,5.89
+T1502,R102,2026-09-17,19:15,110,111,6,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,0.0,19,1,0,3.44
+T1503,R102,2026-09-26,15:45,118,112,4,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,5.0,15,0,0,3.69
+T1504,R103,2026-09-21,19:45,58,68,4,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,6.0,19,1,0,4.75
+T1505,R101,2026-09-28,11:00,173,173,7,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,7.0,11,0,0,9.35
+T1506,R103,2026-09-30,14:15,141,137,7,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,15.0,14,0,0,11.56
+T1507,R102,2026-09-26,16:45,151,137,7,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,2.0,16,0,0,4.72
+T1508,R102,2026-09-14,18:00,83,84,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,4.0,18,1,0,2.59
+T1509,R102,2026-09-02,09:15,106,109,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,1.0,9,1,0,3.31
+T1510,R103,2026-09-28,22:00,166,154,6,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,4.0,22,0,0,13.61
+T1511,R105,2026-09-22,07:30,93,94,3,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,3.0,7,0,0,6.2
+T1512,R102,2026-09-11,09:45,102,106,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,4.0,9,1,0,3.19
+T1513,R104,2026-09-01,21:30,81,83,3,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,18.0,21,0,0,3.27
+T1514,R103,2026-09-19,16:00,45,43,3,Downtown Loop,12.2,18,Central,Saturday,1,1,,1,1,2.0,16,0,0,3.69
+T1515,R102,2026-09-21,13:00,183,170,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,4.0,13,0,0,5.72
+T1516,R104,2026-09-04,22:00,73,67,6,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,7.0,22,0,0,2.94
+T1517,R105,2026-09-19,08:30,75,80,4,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,3.0,8,1,0,5.0
+T1518,R102,2026-09-26,14:00,97,104,6,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,6.0,14,0,0,3.03
+T1519,R105,2026-09-29,11:15,148,146,4,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,1.0,11,0,0,9.87
+T1520,R102,2026-09-21,05:00,90,102,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,4.0,5,0,0,2.81
+T1521,R103,2026-09-11,06:45,91,83,3,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,6.0,6,0,0,7.46
+T1522,R101,2026-09-08,15:00,24,27,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,15,0,0,1.3
+T1523,R102,2026-09-11,11:15,79,86,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,1.0,11,0,0,2.47
+T1524,R101,2026-09-04,21:00,90,84,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,4.0,21,0,0,4.86
+T1525,R104,2026-09-17,06:15,108,110,4,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,0.0,6,0,0,4.35
+T1526,R102,2026-09-27,18:15,48,52,3,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,5.0,18,1,1,1.5
+T1527,R101,2026-09-07,06:00,153,152,6,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,7.0,6,0,0,8.27
+T1528,R105,2026-09-08,14:00,156,155,5,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,7.0,14,0,0,10.4
+T1529,R102,2026-09-03,09:15,92,78,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,1.0,9,1,0,2.88
+T1530,R102,2026-09-22,20:00,106,102,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,5.0,20,0,0,3.31
+T1531,R101,2026-09-02,06:15,115,107,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,4.0,6,0,0,6.22
+T1532,R105,2026-09-23,06:45,121,117,5,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,4.0,6,0,0,8.07
+T1533,R101,2026-09-15,20:30,157,163,7,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,16.0,20,0,0,8.49
+T1534,R103,2026-09-24,11:15,153,157,7,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,20.0,11,0,0,12.54
+T1535,R101,2026-09-22,16:45,177,175,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,0.0,16,0,0,9.57
+T1536,R103,2026-09-22,19:45,93,99,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,4.0,19,1,0,7.62
+T1537,R104,2026-09-05,10:45,151,141,4,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,4.0,10,1,0,6.09
+T1538,R105,2026-09-24,14:30,87,84,3,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,0.0,14,0,0,5.8
+T1539,R105,2026-09-01,21:45,213,205,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,2.0,21,0,0,14.2
+T1540,R101,2026-09-26,11:00,73,68,3,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,2.0,11,0,0,3.95
+T1541,R102,2026-09-04,08:15,80,82,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,2.0,8,1,0,2.5
+T1542,R103,2026-09-15,19:45,129,124,5,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,1.0,19,1,0,10.57
+T1543,R101,2026-09-20,12:00,140,146,5,Corridor North,18.5,22,North-South,Sunday,1,0,Marathon,1,1,22.0,12,0,1,7.57
+T1544,R101,2026-09-19,19:15,41,40,3,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,16.0,19,1,0,2.22
+T1545,R101,2026-09-03,18:30,134,138,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,5.0,18,1,0,7.24
+T1546,R101,2026-09-20,13:45,46,50,3,Corridor North,18.5,22,North-South,Sunday,1,0,Marathon,1,1,5.0,13,0,1,2.49
+T1547,R105,2026-09-11,21:30,72,73,3,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,1.0,21,0,0,4.8
+T1548,R101,2026-09-17,06:00,75,68,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,5.0,6,0,0,4.05
+T1549,R104,2026-09-30,07:45,76,78,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,4.0,7,0,0,3.06
+T1550,R104,2026-09-27,16:00,88,88,3,Suburban Link,24.8,28,West-East,Sunday,1,0,Music Fest,1,1,11.0,16,0,1,3.55
+T1551,R101,2026-09-13,14:45,210,218,7,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,4.0,14,0,0,11.35
+T1552,R103,2026-09-11,07:15,95,96,4,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,9.0,7,0,0,7.79
+T1553,R103,2026-09-02,11:45,162,158,7,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,18.0,11,0,0,13.28
+T1554,R101,2026-09-09,22:30,54,48,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,14.0,22,0,0,2.92
+T1555,R103,2026-09-26,09:30,100,91,6,Downtown Loop,12.2,18,Central,Saturday,1,0,,1,1,2.0,9,1,0,8.2
+T1556,R105,2026-09-02,15:45,29,21,3,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,9.0,15,0,0,1.93
+T1557,R105,2026-09-21,16:15,103,104,5,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,5.0,16,0,0,6.87
+T1558,R103,2026-09-09,12:45,121,134,7,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,0.0,12,0,0,9.92
+T1559,R104,2026-09-09,13:45,79,80,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,8.0,13,0,0,3.19
+T1560,R103,2026-09-08,09:00,117,114,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,4.0,9,1,0,9.59
+T1561,R105,2026-09-17,12:30,102,95,5,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,4.0,12,0,0,6.8
+T1562,R102,2026-09-01,13:30,101,101,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,13,0,0,3.16
+T1563,R102,2026-09-25,19:45,48,53,2,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,1.0,19,1,0,1.5
+T1564,R101,2026-09-29,18:45,142,141,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,15.0,18,1,0,7.68
+T1565,R102,2026-09-11,22:15,64,63,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,8.0,22,0,0,2.0
+T1566,R103,2026-09-08,10:45,123,113,5,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,2.0,10,1,0,10.08
+T1567,R104,2026-09-10,06:30,143,131,7,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,23.0,6,0,0,5.77
+T1568,R101,2026-09-25,20:30,53,59,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,3.0,20,0,0,2.86
+T1569,R103,2026-09-07,17:30,135,133,5,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,13.0,17,1,0,11.07
+T1570,R104,2026-09-03,22:30,189,184,6,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,1.0,22,0,0,7.62
+T1571,R102,2026-09-03,12:15,126,113,6,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,17.0,12,0,0,3.94
+T1572,R103,2026-09-18,05:45,74,71,5,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,2.0,5,0,0,6.07
+T1573,R105,2026-09-05,05:30,112,105,5,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,4.0,5,0,0,7.47
+T1574,R101,2026-09-12,12:00,171,173,6,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,0.0,12,0,1,9.24
+T1575,R104,2026-09-12,20:30,144,144,6,Suburban Link,24.8,28,West-East,Saturday,1,0,Tech Expo,1,1,14.0,20,0,1,5.81
+T1576,R104,2026-09-19,09:45,138,139,5,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,8.0,9,1,0,5.56
+T1577,R104,2026-09-30,10:15,219,218,6,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,9.0,10,1,0,8.83
+T1578,R102,2026-09-06,13:45,64,54,6,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,2.0,13,0,0,2.0
+T1579,R103,2026-09-02,15:15,171,167,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,26.0,15,0,0,14.02
+T1580,R102,2026-09-12,20:00,115,112,6,Airport Express,32.0,14,East Express,Saturday,1,0,Tech Expo,1,1,3.0,20,0,1,3.59
+T1581,R101,2026-09-19,17:30,180,168,4,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,2.0,17,1,0,9.73
+T1582,R101,2026-09-05,17:15,29,27,2,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,4.0,17,1,0,1.57
+T1583,R103,2026-09-12,08:45,120,113,5,Downtown Loop,12.2,18,Central,Saturday,1,0,Tech Expo,1,1,7.0,8,1,1,9.84
+T1584,R105,2026-09-27,10:15,94,97,5,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Music Fest,1,1,13.0,10,1,1,6.27
+T1585,R102,2026-09-27,09:00,44,46,5,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,2.0,9,1,1,1.38
+T1586,R101,2026-09-17,07:00,143,143,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,8.0,7,0,0,7.73
+T1587,R104,2026-09-29,08:00,100,97,3,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,0.0,8,1,0,4.03
+T1588,R104,2026-09-17,06:15,91,95,6,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,0.0,6,0,0,3.67
+T1589,R103,2026-09-10,09:30,153,162,7,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,14.0,9,1,0,12.54
+T1590,R105,2026-09-25,13:45,80,78,3,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,9.0,13,0,0,5.33
+T1591,R101,2026-09-23,10:15,159,153,6,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,11.0,10,1,0,8.59
+T1592,R101,2026-09-17,10:30,105,106,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,0.0,10,1,0,5.68
+T1593,R104,2026-09-15,16:00,157,161,6,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,6.0,16,0,0,6.33
+T1594,R103,2026-09-12,15:15,120,121,6,Downtown Loop,12.2,18,Central,Saturday,1,0,Tech Expo,1,1,4.0,15,0,1,9.84
+T1595,R102,2026-09-30,19:45,105,93,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,3.0,19,1,0,3.28
+T1596,R101,2026-09-16,16:00,96,89,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,1.0,16,0,0,5.19
+T1597,R102,2026-09-24,06:15,99,92,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,9.0,6,0,0,3.09
+T1598,R105,2026-09-19,07:45,169,165,6,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,9.0,7,0,0,11.27
+T1599,R101,2026-09-08,20:00,218,201,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,1.0,20,0,0,11.78
+T1600,R101,2026-09-21,05:00,79,74,3,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,0.0,5,0,0,4.27
+T1601,R102,2026-09-17,07:45,132,126,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,7,0,0,4.12
+T1602,R101,2026-09-23,06:00,101,100,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,4.0,6,0,0,5.46
+T1603,R101,2026-09-05,19:15,109,110,6,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,25.0,19,1,0,5.89
+T1604,R103,2026-09-22,15:00,87,96,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,2.0,15,0,0,7.13
+T1605,R103,2026-09-16,20:45,31,30,4,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,10.0,20,0,0,2.54
+T1606,R102,2026-09-06,21:00,78,69,4,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,5.0,21,0,0,2.44
+T1607,R105,2026-09-08,16:30,119,125,4,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,7.0,16,0,0,7.93
+T1608,R101,2026-09-25,19:30,51,60,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,0.0,19,1,0,2.76
+T1609,R101,2026-09-18,07:00,197,198,7,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,4.0,7,0,0,10.65
+T1610,R102,2026-09-25,20:15,73,71,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,14.0,20,0,0,2.28
+T1611,R102,2026-09-12,06:30,50,46,3,Airport Express,32.0,14,East Express,Saturday,1,0,Tech Expo,1,1,1.0,6,0,1,1.56
+T1612,R102,2026-09-15,12:45,70,72,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,12,0,0,2.19
+T1613,R102,2026-09-27,19:30,46,50,4,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,4.0,19,1,1,1.44
+T1614,R101,2026-09-26,10:00,125,134,4,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,7.0,10,1,0,6.76
+T1615,R102,2026-09-09,05:45,72,72,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,8.0,5,0,0,2.25
+T1616,R102,2026-09-13,07:45,87,76,4,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,0.0,7,0,0,2.72
+T1617,R101,2026-09-26,19:15,86,76,6,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,6.0,19,1,0,4.65
+T1618,R101,2026-09-15,19:30,131,128,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,20.0,19,1,0,7.08
+T1619,R103,2026-09-10,07:00,142,129,5,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,5.0,7,0,0,11.64
+T1620,R102,2026-09-16,18:45,67,67,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,0.0,18,1,0,2.09
+T1621,R102,2026-09-07,18:45,60,70,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,7.0,18,1,0,1.88
+T1622,R103,2026-09-17,16:00,111,107,5,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,3.0,16,0,0,9.1
+T1623,R102,2026-09-23,11:00,62,60,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,9.0,11,0,0,1.94
+T1624,R102,2026-09-26,07:45,49,54,5,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,0.0,7,0,0,1.53
+T1625,R101,2026-09-21,17:30,100,94,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,15.0,17,1,0,5.41
+T1626,R101,2026-09-22,22:30,128,130,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,22,0,0,6.92
+T1627,R101,2026-09-26,05:15,47,50,4,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,26.0,5,0,0,2.54
+T1628,R102,2026-09-07,06:45,78,80,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,4.0,6,0,0,2.44
+T1629,R102,2026-09-14,18:15,60,69,2,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,5.0,18,1,0,1.88
+T1630,R103,2026-09-15,18:45,90,91,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,0.0,18,1,0,7.38
+T1631,R103,2026-09-21,12:15,76,77,6,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,1.0,12,0,0,6.23
+T1632,R102,2026-09-07,07:30,74,69,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,21.0,7,0,0,2.31
+T1633,R105,2026-09-09,18:30,71,61,3,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,6.0,18,1,0,4.73
+T1634,R104,2026-09-19,21:00,82,88,3,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,0.0,21,0,0,3.31
+T1635,R101,2026-09-16,12:45,144,144,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,0.0,12,0,0,7.78
+T1636,R103,2026-09-08,18:15,142,148,6,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,3.0,18,1,0,11.64
+T1637,R102,2026-09-18,10:30,70,68,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,2.0,10,1,0,2.19
+T1638,R101,2026-09-27,20:00,95,102,4,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,10.0,20,0,1,5.14
+T1639,R102,2026-09-23,18:30,67,70,3,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,1.0,18,1,0,2.09
+T1640,R105,2026-09-29,07:15,169,163,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,1.0,7,0,0,11.27
+T1641,R101,2026-09-18,13:45,155,140,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,6.0,13,0,0,8.38
+T1642,R101,2026-09-30,17:30,98,98,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,1.0,17,1,0,5.3
+T1643,R103,2026-09-20,18:30,165,175,5,Downtown Loop,12.2,18,Central,Sunday,1,0,Marathon,1,1,0.0,18,1,1,13.52
+T1644,R101,2026-09-07,13:30,69,70,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,0.0,13,0,0,3.73
+T1645,R101,2026-09-03,19:45,128,126,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,0.0,19,1,0,6.92
+T1646,R101,2026-09-18,18:45,98,92,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,2.0,18,1,0,5.3
+T1647,R104,2026-09-27,10:00,168,159,5,Suburban Link,24.8,28,West-East,Sunday,1,0,Music Fest,1,1,3.0,10,1,1,6.77
+T1648,R101,2026-09-10,08:45,77,79,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,6.0,8,1,0,4.16
+T1649,R102,2026-09-07,21:15,121,117,6,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,0.0,21,0,0,3.78
+T1650,R101,2026-09-17,13:45,152,163,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,13,0,0,8.22
+T1651,R105,2026-09-14,05:45,119,121,5,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,24.0,5,0,0,7.93
+T1652,R102,2026-09-24,18:30,99,101,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,18,1,0,3.09
+T1653,R101,2026-09-03,07:00,53,42,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,7,0,0,2.86
+T1654,R103,2026-09-12,18:15,149,146,5,Downtown Loop,12.2,18,Central,Saturday,1,0,Tech Expo,1,1,4.0,18,1,1,12.21
+T1655,R101,2026-09-28,13:45,50,55,3,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,4.0,13,0,0,2.7
+T1656,R103,2026-09-13,08:45,58,61,3,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,2.0,8,1,0,4.75
+T1657,R102,2026-09-02,12:15,124,115,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,3.0,12,0,0,3.88
+T1658,R103,2026-09-03,13:00,105,100,6,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,9.0,13,0,0,8.61
+T1659,R102,2026-09-05,18:15,215,216,7,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,10.0,18,1,0,6.72
+T1660,R101,2026-09-11,13:45,132,131,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,2.0,13,0,0,7.14
+T1661,R103,2026-09-08,20:00,58,58,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,4.0,20,0,0,4.75
+T1662,R103,2026-09-26,21:45,146,130,7,Downtown Loop,12.2,18,Central,Saturday,1,0,,1,1,3.0,21,0,0,11.97
+T1663,R101,2026-09-23,16:30,29,27,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,7.0,16,0,0,1.57
+T1664,R102,2026-09-23,15:45,119,122,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,1.0,15,0,0,3.72
+T1665,R101,2026-09-12,18:15,79,71,5,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,11.0,18,1,1,4.27
+T1666,R103,2026-09-07,09:45,151,149,4,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,3.0,9,1,0,12.38
+T1667,R101,2026-09-15,09:30,70,71,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,9,1,0,3.78
+T1668,R102,2026-09-24,16:00,80,82,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,3.0,16,0,0,2.5
+T1669,R101,2026-09-17,13:00,210,195,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,3.0,13,0,0,11.35
+T1670,R102,2026-09-04,13:45,35,41,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,4.0,13,0,0,1.09
+T1671,R102,2026-09-29,07:00,41,48,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,17.0,7,0,0,1.28
+T1672,R101,2026-09-22,06:45,66,57,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,1.0,6,0,0,3.57
+T1673,R101,2026-09-25,05:45,124,112,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,4.0,5,0,0,6.7
+T1674,R105,2026-09-13,17:30,88,99,4,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,1.0,17,1,0,5.87
+T1675,R105,2026-09-18,19:45,81,72,5,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,4.0,19,1,0,5.4
+T1676,R104,2026-09-01,16:15,88,91,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,7.0,16,0,0,3.55
+T1677,R103,2026-09-16,16:15,95,92,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,8.0,16,0,0,7.79
+T1678,R102,2026-09-13,19:30,139,134,5,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,0.0,19,1,0,4.34
+T1679,R101,2026-09-10,13:30,57,58,2,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,0.0,13,0,0,3.08
+T1680,R105,2026-09-12,12:00,71,75,4,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,Tech Expo,1,1,0.0,12,0,1,4.73
+T1681,R103,2026-09-30,10:45,73,73,3,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,10.0,10,1,0,5.98
+T1682,R105,2026-09-02,08:30,45,39,4,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,1.0,8,1,0,3.0
+T1683,R101,2026-09-23,11:45,101,101,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,4.0,11,0,0,5.46
+T1684,R102,2026-09-03,08:15,68,65,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,0.0,8,1,0,2.12
+T1685,R101,2026-09-10,16:00,59,56,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,4.0,16,0,0,3.19
+T1686,R104,2026-09-02,07:15,86,87,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,0.0,7,0,0,3.47
+T1687,R101,2026-09-30,16:15,170,164,6,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,0.0,16,0,0,9.19
+T1688,R101,2026-09-27,06:30,85,92,2,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,4.0,6,0,1,4.59
+T1689,R104,2026-09-23,13:00,172,160,5,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,4.0,13,0,0,6.94
+T1690,R102,2026-09-13,12:30,188,187,5,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,1.0,12,0,0,5.88
+T1691,R101,2026-09-13,10:15,167,172,7,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,4.0,10,1,0,9.03
+T1692,R104,2026-09-18,22:00,145,156,6,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,4.0,22,0,0,5.85
+T1693,R103,2026-09-03,16:15,217,231,7,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,2.0,16,0,0,17.79
+T1694,R102,2026-09-27,12:30,164,162,5,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,2.0,12,0,1,5.12
+T1695,R102,2026-09-07,14:00,70,56,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,3.0,14,0,0,2.19
+T1696,R101,2026-09-14,17:00,100,104,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,3.0,17,1,0,5.41
+T1697,R102,2026-09-20,07:45,107,109,5,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,8.0,7,0,1,3.34
+T1698,R102,2026-09-29,18:30,78,85,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,9.0,18,1,0,2.44
+T1699,R103,2026-09-30,20:00,144,143,6,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,1.0,20,0,0,11.8
+T1700,R101,2026-09-17,21:00,112,110,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,21,0,0,6.05
+T1701,R102,2026-09-29,10:00,57,58,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,13.0,10,1,0,1.78
+T1702,R102,2026-09-30,18:00,117,112,5,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,0.0,18,1,0,3.66
+T1703,R101,2026-09-21,12:30,162,154,6,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,6.0,12,0,0,8.76
+T1704,R105,2026-09-12,05:15,114,114,4,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,Tech Expo,1,1,4.0,5,0,1,7.6
+T1705,R102,2026-09-25,11:00,89,85,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,3.0,11,0,0,2.78
+T1706,R104,2026-09-16,21:45,108,101,6,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,2.0,21,0,0,4.35
+T1707,R105,2026-09-24,14:30,101,95,4,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,1.0,14,0,0,6.73
+T1708,R102,2026-09-12,13:00,165,161,7,Airport Express,32.0,14,East Express,Saturday,1,0,Tech Expo,1,1,8.0,13,0,1,5.16
+T1709,R102,2026-09-15,09:00,99,98,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,10.0,9,1,0,3.09
+T1710,R101,2026-09-25,13:00,168,161,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,16.0,13,0,0,9.08
+T1711,R105,2026-09-10,11:30,18,16,2,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,0.0,11,0,0,1.2
+T1712,R103,2026-09-30,13:30,106,117,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,9.0,13,0,0,8.69
+T1713,R103,2026-09-25,17:45,35,35,4,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,3.0,17,1,0,2.87
+T1714,R102,2026-09-07,15:15,103,98,6,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,0.0,15,0,0,3.22
+T1715,R102,2026-09-20,15:00,105,98,3,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,3.0,15,0,1,3.28
+T1716,R101,2026-09-05,18:00,128,127,6,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,6.0,18,1,0,6.92
+T1717,R102,2026-09-01,05:45,72,80,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,5,0,0,2.25
+T1718,R102,2026-09-30,16:30,109,104,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,3.0,16,0,0,3.41
+T1719,R103,2026-09-17,16:45,48,47,3,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,4.0,16,0,0,3.93
+T1720,R102,2026-09-03,12:00,96,100,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,5.0,12,0,0,3.0
+T1721,R103,2026-09-13,17:45,103,103,3,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,4.0,17,1,0,8.44
+T1722,R105,2026-09-14,20:00,184,181,7,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,8.0,20,0,0,12.27
+T1723,R101,2026-09-24,17:15,179,178,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,0.0,17,1,0,9.68
+T1724,R105,2026-09-30,11:45,38,42,3,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,4.0,11,0,0,2.53
+T1725,R103,2026-09-18,09:45,94,92,3,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,6.0,9,1,0,7.7
+T1726,R103,2026-09-04,18:30,59,61,5,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,3.0,18,1,0,4.84
+T1727,R101,2026-09-18,17:30,139,140,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,16.0,17,1,0,7.51
+T1728,R101,2026-09-30,21:30,125,130,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,7.0,21,0,0,6.76
+T1729,R105,2026-09-05,22:15,124,126,5,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,0.0,22,0,0,8.27
+T1730,R104,2026-09-25,06:45,53,53,4,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,0.0,6,0,0,2.14
+T1731,R105,2026-09-16,05:30,156,159,7,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,5.0,5,0,0,10.4
+T1732,R101,2026-09-01,08:15,42,29,4,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,8,1,0,2.27
+T1733,R103,2026-09-21,09:30,146,138,6,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,8.0,9,1,0,11.97
+T1734,R102,2026-09-14,19:45,101,92,6,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,4.0,19,1,0,3.16
+T1735,R105,2026-09-15,12:45,153,142,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,15.0,12,0,0,10.2
+T1736,R103,2026-09-09,21:00,123,120,4,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,7.0,21,0,0,10.08
+T1737,R102,2026-09-15,16:15,133,138,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,16,0,0,4.16
+T1738,R102,2026-09-17,19:00,16,12,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,2.0,19,1,0,0.5
+T1739,R101,2026-09-25,11:15,98,99,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,5.0,11,0,0,5.3
+T1740,R105,2026-09-24,13:15,75,73,4,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,6.0,13,0,0,5.0
+T1741,R102,2026-09-04,06:30,102,96,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,0.0,6,0,0,3.19
+T1742,R101,2026-09-12,15:00,74,90,6,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,4.0,15,0,1,4.0
+T1743,R101,2026-09-27,14:15,141,128,6,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,2.0,14,0,1,7.62
+T1744,R101,2026-09-26,22:30,114,113,5,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,0.0,22,0,0,6.16
+T1745,R102,2026-09-05,13:00,56,62,3,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,5.0,13,0,0,1.75
+T1746,R101,2026-09-29,11:45,32,33,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,9.0,11,0,0,1.73
+T1747,R103,2026-09-05,07:45,132,129,4,Downtown Loop,12.2,18,Central,Saturday,1,1,,1,1,8.0,7,0,0,10.82
+T1748,R104,2026-09-11,10:30,157,157,5,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,4.0,10,1,0,6.33
+T1749,R105,2026-09-28,06:00,127,120,4,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,4.0,6,0,0,8.47
+T1750,R104,2026-09-06,10:30,72,72,3,Suburban Link,24.8,28,West-East,Sunday,1,0,,1,1,1.0,10,1,0,2.9
+T1751,R103,2026-09-07,20:15,127,118,4,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,7.0,20,0,0,10.41
+T1752,R101,2026-09-24,12:15,80,74,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,12.0,12,0,0,4.32
+T1753,R101,2026-09-14,21:00,150,143,7,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,14.0,21,0,0,8.11
+T1754,R101,2026-09-24,16:30,44,45,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,3.0,16,0,0,2.38
+T1755,R102,2026-09-11,15:00,55,59,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,7.0,15,0,0,1.72
+T1756,R101,2026-09-30,17:30,111,103,7,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,9.0,17,1,0,6.0
+T1757,R101,2026-09-13,09:00,51,51,4,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,4.0,9,1,0,2.76
+T1758,R103,2026-09-02,21:30,80,73,4,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,0.0,21,0,0,6.56
+T1759,R103,2026-09-25,10:45,87,83,3,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,0.0,10,1,0,7.13
+T1760,R103,2026-09-07,15:15,113,102,6,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,11.0,15,0,0,9.26
+T1761,R104,2026-09-20,08:30,30,31,3,Suburban Link,24.8,28,West-East,Sunday,1,0,Marathon,1,1,8.0,8,1,1,1.21
+T1762,R102,2026-09-04,17:30,88,89,6,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,6.0,17,1,0,2.75
+T1763,R103,2026-09-27,13:00,99,98,5,Downtown Loop,12.2,18,Central,Sunday,1,0,Music Fest,1,1,2.0,13,0,1,8.11
+T1764,R101,2026-09-08,10:15,114,106,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,10,1,0,6.16
+T1765,R104,2026-09-20,16:15,100,90,4,Suburban Link,24.8,28,West-East,Sunday,1,0,Marathon,1,1,13.0,16,0,1,4.03
+T1766,R102,2026-09-29,07:30,139,141,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,7,0,0,4.34
+T1767,R101,2026-09-22,16:30,112,103,4,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,16,0,0,6.05
+T1768,R105,2026-09-21,13:30,47,50,5,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,9.0,13,0,0,3.13
+T1769,R105,2026-09-19,12:30,85,88,3,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,0.0,12,0,0,5.67
+T1770,R101,2026-09-13,20:45,174,175,6,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,7.0,20,0,0,9.41
+T1771,R103,2026-09-14,08:45,175,169,4,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,2.0,8,1,0,14.34
+T1772,R102,2026-09-10,05:45,67,63,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,11.0,5,0,0,2.09
+T1773,R102,2026-09-11,11:15,68,73,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,20.0,11,0,0,2.12
+T1774,R104,2026-09-02,09:30,104,98,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,2.0,9,1,0,4.19
+T1775,R102,2026-09-25,08:00,144,141,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,20.0,8,1,0,4.5
+T1776,R105,2026-09-26,05:00,64,61,5,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,,1,1,0.0,5,0,0,4.27
+T1777,R102,2026-09-09,19:45,88,93,5,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,15.0,19,1,0,2.75
+T1778,R103,2026-09-17,14:45,152,148,6,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,6.0,14,0,0,12.46
+T1779,R102,2026-09-26,22:45,130,126,5,Airport Express,32.0,14,East Express,Saturday,1,0,,1,0,0.0,22,0,0,4.06
+T1780,R104,2026-09-03,07:30,103,93,5,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,2.0,7,0,0,4.15
+T1781,R105,2026-09-24,19:30,152,157,6,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,3.0,19,1,0,10.13
+T1782,R102,2026-09-06,15:00,176,176,6,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,7.0,15,0,0,5.5
+T1783,R101,2026-09-05,21:15,61,59,3,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,6.0,21,0,0,3.3
+T1784,R101,2026-09-05,09:45,110,106,6,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,0.0,9,1,0,5.95
+T1785,R102,2026-09-22,06:45,134,124,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,2.0,6,0,0,4.19
+T1786,R105,2026-09-15,16:15,95,97,7,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,0.0,16,0,0,6.33
+T1787,R104,2026-09-23,05:30,119,117,5,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,36.0,5,0,0,4.8
+T1788,R102,2026-09-17,08:00,91,91,5,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,1.0,8,1,0,2.84
+T1789,R103,2026-09-09,17:15,128,133,7,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,4.0,17,1,0,10.49
+T1790,R103,2026-09-03,09:15,81,72,4,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,4.0,9,1,0,6.64
+T1791,R101,2026-09-20,07:30,121,123,3,Corridor North,18.5,22,North-South,Sunday,1,0,Marathon,1,1,6.0,7,0,1,6.54
+T1792,R102,2026-09-26,17:45,105,102,5,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,3.0,17,1,0,3.28
+T1793,R104,2026-09-17,18:15,64,65,3,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,10.0,18,1,0,2.58
+T1794,R101,2026-09-29,15:45,137,125,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,11.0,15,0,0,7.41
+T1795,R102,2026-09-27,14:30,99,94,3,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,3.0,14,0,1,3.09
+T1796,R102,2026-09-10,22:15,115,126,6,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,1.0,22,0,0,3.59
+T1797,R103,2026-09-03,19:00,155,157,7,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,1.0,19,1,0,12.7
+T1798,R105,2026-09-18,14:00,127,120,5,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,9.0,14,0,0,8.47
+T1799,R101,2026-09-18,09:15,122,123,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,9.0,9,1,0,6.59
+T1800,R105,2026-09-30,09:30,30,27,3,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,44.0,9,1,0,2.0
+T1801,R101,2026-09-17,10:45,131,124,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,0.0,10,1,0,7.08
+T1802,R102,2026-09-24,22:45,77,71,2,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,8.0,22,0,0,2.41
+T1803,R103,2026-09-03,13:00,93,99,3,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,3.0,13,0,0,7.62
+T1804,R102,2026-09-03,17:30,101,93,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,11.0,17,1,0,3.16
+T1805,R104,2026-09-06,19:15,162,172,7,Suburban Link,24.8,28,West-East,Sunday,1,0,,1,1,6.0,19,1,0,6.53
+T1806,R101,2026-09-13,21:00,112,97,6,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,5.0,21,0,0,6.05
+T1807,R105,2026-09-24,20:15,123,116,5,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,4.0,20,0,0,8.2
+T1808,R102,2026-09-29,08:00,96,98,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,8,1,0,3.0
+T1809,R101,2026-09-15,09:00,154,164,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,0.0,9,1,0,8.32
+T1810,R101,2026-09-25,21:00,68,65,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,16.0,21,0,0,3.68
+T1811,R101,2026-09-09,06:00,76,64,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,11.0,6,0,0,4.11
+T1812,R104,2026-09-04,07:15,63,65,3,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,25.0,7,0,0,2.54
+T1813,R103,2026-09-14,06:45,113,111,3,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,2.0,6,0,0,9.26
+T1814,R104,2026-09-05,17:30,59,58,4,Suburban Link,24.8,28,West-East,Saturday,1,1,,1,1,1.0,17,1,0,2.38
+T1815,R101,2026-09-02,21:00,70,68,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,7.0,21,0,0,3.78
+T1816,R102,2026-09-11,18:30,43,38,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,16.0,18,1,0,1.34
+T1817,R103,2026-09-09,16:00,112,107,4,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,0.0,16,0,0,9.18
+T1818,R103,2026-09-24,16:30,30,26,3,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,1.0,16,0,0,2.46
+T1819,R103,2026-09-03,11:45,66,70,4,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,7.0,11,0,0,5.41
+T1820,R105,2026-09-27,05:45,103,103,6,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Music Fest,1,1,2.0,5,0,1,6.87
+T1821,R103,2026-09-28,07:00,109,108,5,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,4.0,7,0,0,8.93
+T1822,R104,2026-09-29,19:15,160,156,6,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,18.0,19,1,0,6.45
+T1823,R103,2026-09-09,15:45,153,157,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,14.0,15,0,0,12.54
+T1824,R102,2026-09-03,21:30,71,67,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,8.0,21,0,0,2.22
+T1825,R102,2026-09-25,22:45,41,51,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,4.0,22,0,0,1.28
+T1826,R103,2026-09-02,09:30,82,84,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,10.0,9,1,0,6.72
+T1827,R102,2026-09-12,12:45,98,91,6,Airport Express,32.0,14,East Express,Saturday,1,0,Tech Expo,1,1,3.0,12,0,1,3.06
+T1828,R102,2026-09-10,09:00,142,137,5,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,9,1,0,4.44
+T1829,R102,2026-09-09,09:45,48,48,3,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,5.0,9,1,0,1.5
+T1830,R102,2026-09-15,06:30,74,70,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,0.0,6,0,0,2.31
+T1831,R101,2026-09-08,17:30,55,55,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,17,1,0,2.97
+T1832,R101,2026-09-25,16:15,103,101,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,5.0,16,0,0,5.57
+T1833,R105,2026-09-05,15:30,167,169,6,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,6.0,15,0,0,11.13
+T1834,R101,2026-09-11,09:00,194,186,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,2.0,9,1,0,10.49
+T1835,R101,2026-09-27,13:15,106,108,4,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,0.0,13,0,1,5.73
+T1836,R104,2026-09-02,16:15,85,79,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,1.0,16,0,0,3.43
+T1837,R105,2026-09-24,21:30,75,68,4,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,2.0,21,0,0,5.0
+T1838,R105,2026-09-28,20:45,10,5,4,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,4.0,20,0,0,0.67
+T1839,R101,2026-09-15,16:45,70,66,7,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,31.0,16,0,0,3.78
+T1840,R103,2026-09-06,10:30,88,87,4,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,7.0,10,1,0,7.21
+T1841,R104,2026-09-08,08:15,80,77,3,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,2.0,8,1,0,3.23
+T1842,R104,2026-09-27,15:00,86,96,4,Suburban Link,24.8,28,West-East,Sunday,1,0,Music Fest,1,1,1.0,15,0,1,3.47
+T1843,R102,2026-09-05,19:30,93,88,3,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,1.0,19,1,0,2.91
+T1844,R105,2026-09-16,15:45,96,82,3,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,2.0,15,0,0,6.4
+T1845,R101,2026-09-26,22:00,69,63,4,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,7.0,22,0,0,3.73
+T1846,R102,2026-09-18,18:30,148,145,7,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,4.0,18,1,0,4.62
+T1847,R102,2026-09-06,22:45,72,64,5,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,0.0,22,0,0,2.25
+T1848,R101,2026-09-05,19:30,103,102,5,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,5.0,19,1,0,5.57
+T1849,R104,2026-09-28,19:45,107,102,4,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,8.0,19,1,0,4.31
+T1850,R102,2026-09-16,11:00,86,83,5,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,1.0,11,0,0,2.69
+T1851,R102,2026-09-13,07:45,88,70,6,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,3.0,7,0,0,2.75
+T1852,R103,2026-09-28,13:45,164,168,5,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,0.0,13,0,0,13.44
+T1853,R101,2026-09-05,17:00,124,123,3,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,4.0,17,1,0,6.7
+T1854,R102,2026-09-13,21:00,62,62,3,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,7.0,21,0,0,1.94
+T1855,R102,2026-09-17,05:45,42,39,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,5,0,0,1.31
+T1856,R101,2026-09-18,12:30,119,114,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,3.0,12,0,0,6.43
+T1857,R101,2026-09-08,10:30,117,108,6,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,10.0,10,1,0,6.32
+T1858,R102,2026-09-13,09:00,106,107,6,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,0.0,9,1,0,3.31
+T1859,R101,2026-09-30,19:15,112,101,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,0.0,19,1,0,6.05
+T1860,R102,2026-09-29,20:15,33,25,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,2.0,20,0,0,1.03
+T1861,R102,2026-09-19,15:30,203,204,7,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,2.0,15,0,0,6.34
+T1862,R103,2026-09-26,14:15,93,97,4,Downtown Loop,12.2,18,Central,Saturday,1,0,,1,1,8.0,14,0,0,7.62
+T1863,R101,2026-09-03,20:45,50,48,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,4.0,20,0,0,2.7
+T1864,R102,2026-09-24,06:00,187,178,6,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,6,0,0,5.84
+T1865,R102,2026-09-08,07:45,58,67,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,7,0,0,1.81
+T1866,R104,2026-09-02,19:30,150,140,6,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,4.0,19,1,0,6.05
+T1867,R105,2026-09-08,22:45,61,59,4,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,8.0,22,0,0,4.07
+T1868,R101,2026-09-27,21:45,64,70,5,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,0.0,21,0,1,3.46
+T1869,R101,2026-09-13,11:15,102,107,6,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,1.0,11,0,0,5.51
+T1870,R101,2026-09-13,11:30,61,59,3,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,11.0,11,0,0,3.3
+T1871,R103,2026-09-01,05:45,117,111,6,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,7.0,5,0,0,9.59
+T1872,R102,2026-09-06,09:00,119,110,6,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,1.0,9,1,0,3.72
+T1873,R103,2026-09-24,19:00,190,177,6,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,5.0,19,1,0,15.57
+T1874,R102,2026-09-19,17:45,69,67,3,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,4.0,17,1,0,2.16
+T1875,R103,2026-09-16,12:00,120,114,4,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,1.0,12,0,0,9.84
+T1876,R103,2026-09-08,13:30,86,91,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,11.0,13,0,0,7.05
+T1877,R104,2026-09-28,05:45,160,160,7,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,0.0,5,0,0,6.45
+T1878,R102,2026-09-01,07:15,76,66,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,7,0,0,2.38
+T1879,R103,2026-09-27,12:30,72,67,5,Downtown Loop,12.2,18,Central,Sunday,1,0,Music Fest,1,1,2.0,12,0,1,5.9
+T1880,R104,2026-09-27,13:15,112,109,2,Suburban Link,24.8,28,West-East,Sunday,1,0,Music Fest,1,1,1.0,13,0,1,4.52
+T1881,R101,2026-09-16,18:15,123,104,6,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,11.0,18,1,0,6.65
+T1882,R102,2026-09-09,08:15,164,151,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,2.0,8,1,0,5.12
+T1883,R103,2026-09-13,10:30,45,46,4,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,1.0,10,1,0,3.69
+T1884,R105,2026-09-11,07:45,117,103,6,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,0.0,7,0,0,7.8
+T1885,R101,2026-09-13,07:15,91,88,5,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,3.0,7,0,0,4.92
+T1886,R101,2026-09-25,17:00,43,40,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,8.0,17,1,0,2.32
+T1887,R101,2026-09-21,06:00,93,87,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,14.0,6,0,0,5.03
+T1888,R104,2026-09-10,10:45,76,72,5,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,20.0,10,1,0,3.06
+T1889,R101,2026-09-04,06:45,169,170,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,28.0,6,0,0,9.14
+T1890,R102,2026-09-27,21:30,96,87,4,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,4.0,21,0,1,3.0
+T1891,R103,2026-09-06,06:15,173,173,6,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,8.0,6,0,0,14.18
+T1892,R103,2026-09-28,20:15,113,113,7,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,0.0,20,0,0,9.26
+T1893,R105,2026-09-07,06:15,126,123,7,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,4.0,6,0,0,8.4
+T1894,R101,2026-09-05,17:45,76,83,2,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,11.0,17,1,0,4.11
+T1895,R104,2026-09-11,19:30,61,64,3,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,2.0,19,1,0,2.46
+T1896,R101,2026-09-13,06:30,140,152,4,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,4.0,6,0,0,7.57
+T1897,R101,2026-09-26,07:45,98,92,4,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,1.0,7,0,0,5.3
+T1898,R105,2026-09-25,18:45,115,120,4,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,3.0,18,1,0,7.67
+T1899,R101,2026-09-19,11:00,79,75,3,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,11.0,11,0,0,4.27
+T1900,R102,2026-09-23,11:00,129,129,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,2.0,11,0,0,4.03
+T1901,R103,2026-09-10,21:00,174,173,7,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,1.0,21,0,0,14.26
+T1902,R101,2026-09-10,17:00,148,147,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,0.0,17,1,0,8.0
+T1903,R105,2026-09-11,21:30,167,167,7,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,0.0,21,0,0,11.13
+T1904,R101,2026-09-21,14:15,208,205,5,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,4.0,14,0,0,11.24
+T1905,R104,2026-09-30,08:45,95,91,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,18.0,8,1,0,3.83
+T1906,R102,2026-09-07,22:15,62,66,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,1.0,22,0,0,1.94
+T1907,R102,2026-09-18,22:45,64,74,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,2.0,22,0,0,2.0
+T1908,R101,2026-09-04,18:45,93,101,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,8.0,18,1,0,5.03
+T1909,R103,2026-09-02,19:15,78,83,6,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,9.0,19,1,0,6.39
+T1910,R101,2026-09-14,08:00,62,59,6,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,5.0,8,1,0,3.35
+T1911,R101,2026-09-13,12:15,89,84,3,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,1.0,12,0,0,4.81
+T1912,R101,2026-09-29,16:30,84,75,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,8.0,16,0,0,4.54
+T1913,R102,2026-09-12,18:15,84,84,4,Airport Express,32.0,14,East Express,Saturday,1,0,Tech Expo,1,1,0.0,18,1,1,2.62
+T1914,R105,2026-09-07,22:45,57,51,6,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,5.0,22,0,0,3.8
+T1915,R101,2026-09-02,06:30,126,121,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,7.0,6,0,0,6.81
+T1916,R103,2026-09-13,15:00,140,140,5,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,18.0,15,0,0,11.48
+T1917,R105,2026-09-14,16:00,90,80,4,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,4.0,16,0,0,6.0
+T1918,R104,2026-09-27,19:00,59,51,4,Suburban Link,24.8,28,West-East,Sunday,1,0,Music Fest,1,1,9.0,19,1,1,2.38
+T1919,R102,2026-09-17,21:15,55,46,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,8.0,21,0,0,1.72
+T1920,R101,2026-09-09,22:45,137,132,6,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,8.0,22,0,0,7.41
+T1921,R103,2026-09-17,10:00,200,188,7,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,4.0,10,1,0,16.39
+T1922,R105,2026-09-08,22:45,64,66,5,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,3.0,22,0,0,4.27
+T1923,R103,2026-09-02,13:15,57,49,3,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,3.0,13,0,0,4.67
+T1924,R104,2026-09-28,09:45,31,35,4,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,0.0,9,1,0,1.25
+T1925,R102,2026-09-24,15:00,86,91,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,5.0,15,0,0,2.69
+T1926,R103,2026-09-13,05:30,141,141,6,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,11.0,5,0,0,11.56
+T1927,R105,2026-09-03,13:30,129,123,4,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,8.0,13,0,0,8.6
+T1928,R103,2026-09-16,06:45,115,123,4,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,14.0,6,0,0,9.43
+T1929,R103,2026-09-06,08:45,218,219,6,Downtown Loop,12.2,18,Central,Sunday,1,0,,1,1,8.0,8,1,0,17.87
+T1930,R103,2026-09-19,22:30,177,164,6,Downtown Loop,12.2,18,Central,Saturday,1,1,,1,1,4.0,22,0,0,14.51
+T1931,R101,2026-09-30,17:30,46,45,3,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,1.0,17,1,0,2.49
+T1932,R101,2026-09-07,21:15,136,144,6,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,1.0,21,0,0,7.35
+T1933,R102,2026-09-10,20:45,71,77,5,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,0.0,20,0,0,2.22
+T1934,R101,2026-09-09,16:30,48,51,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,2.0,16,0,0,2.59
+T1935,R103,2026-09-02,09:00,56,51,3,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,9.0,9,1,0,4.59
+T1936,R104,2026-09-28,05:45,148,145,5,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,14.0,5,0,0,5.97
+T1937,R101,2026-09-28,14:30,53,48,3,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,10.0,14,0,0,2.86
+T1938,R104,2026-09-15,15:00,106,98,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,12.0,15,0,0,4.27
+T1939,R101,2026-09-30,09:00,110,112,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,10.0,9,1,0,5.95
+T1940,R102,2026-09-05,16:30,79,80,4,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,2.0,16,0,0,2.47
+T1941,R103,2026-09-29,21:45,86,81,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,4.0,21,0,0,7.05
+T1942,R103,2026-09-22,19:00,95,87,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,3.0,19,1,0,7.79
+T1943,R102,2026-09-04,13:00,123,114,6,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,8.0,13,0,0,3.84
+T1944,R104,2026-09-20,16:00,123,125,4,Suburban Link,24.8,28,West-East,Sunday,1,0,Marathon,1,1,0.0,16,0,1,4.96
+T1945,R101,2026-09-04,14:00,61,62,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,12.0,14,0,0,3.3
+T1946,R101,2026-09-18,09:15,50,41,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,4.0,9,1,0,2.7
+T1947,R101,2026-09-04,20:30,107,101,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,3.0,20,0,0,5.78
+T1948,R102,2026-09-27,13:30,57,61,5,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,0.0,13,0,1,1.78
+T1949,R105,2026-09-17,19:45,138,134,4,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,1.0,19,1,0,9.2
+T1950,R105,2026-09-12,22:45,81,85,7,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,Tech Expo,1,0,6.0,22,0,1,5.4
+T1951,R101,2026-09-22,18:30,105,101,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,18,1,0,5.68
+T1952,R101,2026-09-17,16:00,188,188,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,16,0,0,10.16
+T1953,R101,2026-09-10,11:00,52,52,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,5.0,11,0,0,2.81
+T1954,R104,2026-09-22,17:15,100,106,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,2.0,17,1,0,4.03
+T1955,R104,2026-09-01,09:00,51,39,3,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,0.0,9,1,0,2.06
+T1956,R102,2026-09-22,08:30,144,137,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,5.0,8,1,0,4.5
+T1957,R102,2026-09-26,06:45,107,100,5,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,12.0,6,0,0,3.34
+T1958,R101,2026-09-24,13:00,75,78,3,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,3.0,13,0,0,4.05
+T1959,R102,2026-09-27,10:30,58,64,6,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,1.0,10,1,1,1.81
+T1960,R101,2026-09-18,05:45,78,78,4,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,0.0,5,0,0,4.22
+T1961,R104,2026-09-18,17:30,86,82,4,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,4.0,17,1,0,3.47
+T1962,R102,2026-09-14,17:00,44,45,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,1.0,17,1,0,1.38
+T1963,R103,2026-09-15,06:00,103,106,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,3.0,6,0,0,8.44
+T1964,R104,2026-09-29,12:30,143,141,4,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,1.0,12,0,0,5.77
+T1965,R104,2026-09-12,08:15,159,163,7,Suburban Link,24.8,28,West-East,Saturday,1,0,Tech Expo,1,1,4.0,8,1,1,6.41
+T1966,R102,2026-09-04,07:45,115,104,5,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,2.0,7,0,0,3.59
+T1967,R101,2026-09-27,10:45,85,77,6,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,7.0,10,1,1,4.59
+T1968,R101,2026-09-03,16:00,113,110,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,6.0,16,0,0,6.11
+T1969,R105,2026-09-20,12:15,48,44,3,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Marathon,1,1,7.0,12,0,1,3.2
+T1970,R105,2026-09-29,05:45,97,89,3,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,4.0,5,0,0,6.47
+T1971,R105,2026-09-12,15:30,112,100,4,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,Tech Expo,1,1,1.0,15,0,1,7.47
+T1972,R105,2026-09-07,17:00,38,33,3,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,0.0,17,1,0,2.53
+T1973,R103,2026-09-29,21:15,152,146,5,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,2.0,21,0,0,12.46
+T1974,R103,2026-09-11,14:00,51,53,4,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,4.0,14,0,0,4.18
+T1975,R104,2026-09-01,16:30,161,161,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,4.0,16,0,0,6.49
+T1976,R101,2026-09-06,14:15,91,88,4,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,0.0,14,0,0,4.92
+T1977,R102,2026-09-15,17:00,177,173,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,7.0,17,1,0,5.53
+T1978,R102,2026-09-15,10:45,89,81,4,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,1.0,10,1,0,2.78
+T1979,R105,2026-09-19,06:15,100,98,4,Tech Park Shuttle,15.0,16,South-East,Saturday,1,1,,1,1,9.0,6,0,0,6.67
+T1980,R104,2026-09-11,21:45,47,49,3,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,4.0,21,0,0,1.9
+T1981,R102,2026-09-26,18:15,89,87,5,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,1.0,18,1,0,2.78
+T1982,R101,2026-09-23,07:00,136,130,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,4.0,7,0,0,7.35
+T1983,R104,2026-09-26,07:30,96,96,5,Suburban Link,24.8,28,West-East,Saturday,1,0,,1,1,4.0,7,0,0,3.87
+T1984,R101,2026-09-02,10:00,76,78,3,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,20.0,10,1,0,4.11
+T1985,R101,2026-09-14,16:15,64,66,3,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,2.0,16,0,0,3.46
+T1986,R101,2026-09-02,15:00,145,132,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,5.0,15,0,0,7.84
+T1987,R104,2026-09-29,08:15,120,119,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,4.0,8,1,0,4.84
+T1988,R105,2026-09-04,10:00,67,63,5,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,4.0,10,1,0,4.47
+T1989,R102,2026-09-17,20:30,57,57,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,1.0,20,0,0,1.78
+T1990,R102,2026-09-03,21:45,130,132,5,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,21,0,0,4.06
+T1991,R105,2026-09-13,16:30,58,52,3,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,1.0,16,0,0,3.87
+T1992,R101,2026-09-09,14:30,143,136,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,6.0,14,0,0,7.73
+T1993,R102,2026-09-07,19:15,70,72,3,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,1.0,19,1,0,2.19
+T1994,R101,2026-09-15,13:15,117,122,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,14.0,13,0,0,6.32
+T1995,R104,2026-09-23,09:15,181,181,7,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,1.0,9,1,0,7.3
+T1996,R101,2026-09-29,11:45,51,51,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,1.0,11,0,0,2.76
+T1997,R105,2026-09-29,05:30,106,113,3,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,0.0,5,0,0,7.07
+T1998,R102,2026-09-11,11:45,66,66,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,3.0,11,0,0,2.06
+T1999,R104,2026-09-20,16:45,167,168,6,Suburban Link,24.8,28,West-East,Sunday,1,0,Marathon,1,1,4.0,16,0,1,6.73
+T2000,R105,2026-09-02,20:30,175,170,6,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,4.0,20,0,0,11.67
+T2001,R101,2026-09-15,08:00,154,150,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,2.0,8,1,0,8.32
+T2002,R102,2026-09-14,11:45,182,174,7,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,3.0,11,0,0,5.69
+T2003,R101,2026-09-20,19:30,49,50,3,Corridor North,18.5,22,North-South,Sunday,1,0,Marathon,1,1,10.0,19,1,1,2.65
+T2004,R103,2026-09-22,13:45,74,63,4,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,4.0,13,0,0,6.07
+T2005,R103,2026-09-11,15:45,99,91,4,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,4.0,15,0,0,8.11
+T2006,R102,2026-09-27,05:30,120,109,6,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,0.0,5,0,1,3.75
+T2007,R101,2026-09-03,12:00,108,107,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,12,0,0,5.84
+T2008,R101,2026-09-17,08:45,61,53,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,8,1,0,3.3
+T2009,R101,2026-09-30,07:00,80,82,3,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,6.0,7,0,0,4.32
+T2010,R101,2026-09-12,13:00,152,138,6,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,8.0,13,0,1,8.22
+T2011,R102,2026-09-24,06:15,204,193,6,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,6,0,0,6.38
+T2012,R102,2026-09-28,17:30,40,47,3,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,0.0,17,1,0,1.25
+T2013,R103,2026-09-29,16:15,47,38,5,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,0.0,16,0,0,3.85
+T2014,R101,2026-09-21,08:15,179,180,6,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,13.0,8,1,0,9.68
+T2015,R104,2026-09-15,12:00,93,88,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,8.0,12,0,0,3.75
+T2016,R103,2026-09-16,09:45,118,122,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,1.0,9,1,0,9.67
+T2017,R101,2026-09-05,22:30,113,104,3,Corridor North,18.5,22,North-South,Saturday,1,1,,1,1,8.0,22,0,0,6.11
+T2018,R103,2026-09-27,19:45,78,83,5,Downtown Loop,12.2,18,Central,Sunday,1,0,Music Fest,1,1,10.0,19,1,1,6.39
+T2019,R104,2026-09-20,13:00,113,113,5,Suburban Link,24.8,28,West-East,Sunday,1,0,Marathon,1,1,0.0,13,0,1,4.56
+T2020,R102,2026-09-06,16:30,72,67,4,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,3.0,16,0,0,2.25
+T2021,R102,2026-09-19,14:00,93,95,4,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,8.0,14,0,0,2.91
+T2022,R102,2026-09-25,14:30,73,66,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,8.0,14,0,0,2.28
+T2023,R102,2026-09-05,17:30,178,171,7,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,14.0,17,1,0,5.56
+T2024,R105,2026-09-03,15:00,52,45,4,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,0.0,15,0,0,3.47
+T2025,R101,2026-09-27,12:45,70,65,5,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,0.0,12,0,1,3.78
+T2026,R105,2026-09-01,08:30,66,65,3,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,15.0,8,1,0,4.4
+T2027,R105,2026-09-26,15:30,48,47,3,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,,1,1,6.0,15,0,0,3.2
+T2028,R105,2026-09-28,05:00,96,95,6,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,1.0,5,0,0,6.4
+T2029,R102,2026-09-06,19:45,132,135,4,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,3.0,19,1,0,4.12
+T2030,R104,2026-09-15,10:45,179,192,7,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,5.0,10,1,0,7.22
+T2031,R102,2026-09-02,19:30,36,35,3,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,4.0,19,1,0,1.12
+T2032,R102,2026-09-29,13:15,75,78,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,13,0,0,2.34
+T2033,R101,2026-09-03,22:15,105,105,5,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,4.0,22,0,0,5.68
+T2034,R102,2026-09-17,21:15,61,60,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,2.0,21,0,0,1.91
+T2035,R102,2026-09-25,09:45,34,34,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,7.0,9,1,0,1.06
+T2036,R102,2026-09-24,13:30,94,87,5,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,2.0,13,0,0,2.94
+T2037,R103,2026-09-12,05:15,78,84,3,Downtown Loop,12.2,18,Central,Saturday,1,0,Tech Expo,1,1,3.0,5,0,1,6.39
+T2038,R101,2026-09-18,10:30,146,136,7,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,4.0,10,1,0,7.89
+T2039,R103,2026-09-15,06:30,87,87,6,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,2.0,6,0,0,7.13
+T2040,R101,2026-09-12,18:00,56,50,3,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,8.0,18,1,1,3.03
+T2041,R102,2026-09-16,10:15,101,92,5,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,6.0,10,1,0,3.16
+T2042,R102,2026-09-27,22:15,74,70,4,Airport Express,32.0,14,East Express,Sunday,1,0,Music Fest,1,1,1.0,22,0,1,2.31
+T2043,R103,2026-09-08,14:15,119,125,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,14.0,14,0,0,9.75
+T2044,R103,2026-09-28,17:30,94,92,4,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,6.0,17,1,0,7.7
+T2045,R101,2026-09-14,07:15,115,110,6,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,4.0,7,0,0,6.22
+T2046,R102,2026-09-25,10:00,51,67,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,2.0,10,1,0,1.59
+T2047,R101,2026-09-17,12:45,189,186,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,3.0,12,0,0,10.22
+T2048,R103,2026-09-29,17:30,90,88,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,1.0,17,1,0,7.38
+T2049,R104,2026-09-21,16:00,79,75,4,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,0.0,16,0,0,3.19
+T2050,R103,2026-09-08,21:45,124,124,6,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,0.0,21,0,0,10.16
+T2051,R104,2026-09-15,15:00,162,165,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,4.0,15,0,0,6.53
+T2052,R101,2026-09-27,22:30,77,77,6,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,9.0,22,0,1,4.16
+T2053,R103,2026-09-14,16:15,111,122,3,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,12.0,16,0,0,9.1
+T2054,R101,2026-09-18,13:45,111,109,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,6.0,13,0,0,6.0
+T2055,R102,2026-09-20,08:30,85,77,3,Airport Express,32.0,14,East Express,Sunday,1,0,Marathon,1,1,2.0,8,1,1,2.66
+T2056,R101,2026-09-07,20:45,174,162,7,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,8.0,20,0,0,9.41
+T2057,R104,2026-09-03,16:30,43,37,4,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,11.0,16,0,0,1.73
+T2058,R101,2026-09-29,09:00,73,72,4,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,11.0,9,1,0,3.95
+T2059,R101,2026-09-12,22:30,129,130,5,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,2.0,22,0,1,6.97
+T2060,R104,2026-09-21,10:15,59,59,2,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,4.0,10,1,0,2.38
+T2061,R101,2026-09-24,22:15,92,92,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,1.0,22,0,0,4.97
+T2062,R103,2026-09-28,10:45,175,174,7,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,6.0,10,1,0,14.34
+T2063,R102,2026-09-26,16:30,98,96,2,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,25.0,16,0,0,3.06
+T2064,R101,2026-09-03,06:00,59,54,4,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,4.0,6,0,0,3.19
+T2065,R101,2026-09-20,15:30,196,189,7,Corridor North,18.5,22,North-South,Sunday,1,0,Marathon,1,1,3.0,15,0,1,10.59
+T2066,R101,2026-09-14,20:15,182,171,6,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,1.0,20,0,0,9.84
+T2067,R105,2026-09-15,06:30,75,78,3,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,14.0,6,0,0,5.0
+T2068,R101,2026-09-25,12:00,65,69,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,1.0,12,0,0,3.51
+T2069,R104,2026-09-30,14:45,192,192,7,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,0.0,14,0,0,7.74
+T2070,R105,2026-09-14,08:30,125,127,5,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,4.0,8,1,0,8.33
+T2071,R104,2026-09-07,05:30,70,65,3,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,6.0,5,0,0,2.82
+T2072,R102,2026-09-17,11:00,70,72,4,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,3.0,11,0,0,2.19
+T2073,R105,2026-09-30,22:15,138,140,7,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,6.0,22,0,0,9.2
+T2074,R103,2026-09-12,16:00,187,181,5,Downtown Loop,12.2,18,Central,Saturday,1,0,Tech Expo,1,1,0.0,16,0,1,15.33
+T2075,R101,2026-09-20,09:15,137,138,7,Corridor North,18.5,22,North-South,Sunday,1,0,Marathon,1,1,2.0,9,1,1,7.41
+T2076,R101,2026-09-04,08:00,25,16,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,17.0,8,1,0,1.35
+T2077,R102,2026-09-09,14:30,33,28,3,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,19.0,14,0,0,1.03
+T2078,R101,2026-09-06,15:00,99,98,5,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,10.0,15,0,0,5.35
+T2079,R101,2026-09-16,14:45,49,32,5,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,23.0,14,0,0,2.65
+T2080,R102,2026-09-25,12:15,59,55,3,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,21.0,12,0,0,1.84
+T2081,R103,2026-09-28,12:45,185,184,6,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,0.0,12,0,0,15.16
+T2082,R102,2026-09-22,09:30,87,92,3,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,1.0,9,1,0,2.72
+T2083,R105,2026-09-22,07:45,63,57,4,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,23.0,7,0,0,4.2
+T2084,R105,2026-09-21,17:00,112,104,5,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,4.0,17,1,0,7.47
+T2085,R105,2026-09-21,14:45,86,87,4,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,7.0,14,0,0,5.73
+T2086,R104,2026-09-02,13:15,96,95,5,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,1.0,13,0,0,3.87
+T2087,R104,2026-09-24,06:30,121,120,3,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,4.0,6,0,0,4.88
+T2088,R101,2026-09-08,05:45,163,162,7,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,6.0,5,0,0,8.81
+T2089,R102,2026-09-11,11:00,112,112,6,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,0.0,11,0,0,3.5
+T2090,R105,2026-09-13,07:45,203,213,6,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,6.0,7,0,0,13.53
+T2091,R104,2026-09-17,07:30,98,96,4,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,1.0,7,0,0,3.95
+T2092,R101,2026-09-08,21:30,113,111,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,2.0,21,0,0,6.11
+T2093,R103,2026-09-21,18:00,110,101,5,Downtown Loop,12.2,18,Central,Monday,0,0,,1,1,6.0,18,1,0,9.02
+T2094,R101,2026-09-18,22:00,140,145,7,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,14.0,22,0,0,7.57
+T2095,R104,2026-09-30,22:45,131,121,4,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,2.0,22,0,0,5.28
+T2096,R102,2026-09-18,05:15,73,84,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,3.0,5,0,0,2.28
+T2097,R102,2026-09-14,05:15,73,69,4,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,6.0,5,0,0,2.28
+T2098,R105,2026-09-15,17:45,137,131,7,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,28.0,17,1,0,9.13
+T2099,R102,2026-09-06,14:30,134,134,4,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,3.0,14,0,0,4.19
+T2100,R105,2026-09-11,15:00,108,103,4,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,4.0,15,0,0,7.2
+T2101,R105,2026-09-13,13:00,147,137,5,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,11.0,13,0,0,9.8
+T2102,R104,2026-09-25,05:00,83,75,4,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,1.0,5,0,0,3.35
+T2103,R102,2026-09-01,06:45,58,62,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,6,0,0,1.81
+T2104,R105,2026-09-28,17:00,102,90,5,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,1.0,17,1,0,6.8
+T2105,R102,2026-09-06,08:00,112,113,5,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,2.0,8,1,0,3.5
+T2106,R103,2026-09-09,15:45,62,59,3,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,6.0,15,0,0,5.08
+T2107,R101,2026-09-08,07:45,52,50,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,2.0,7,0,0,2.81
+T2108,R101,2026-09-11,17:45,88,81,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,8.0,17,1,0,4.76
+T2109,R104,2026-09-22,11:30,94,96,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,15.0,11,0,0,3.79
+T2110,R102,2026-09-19,11:15,147,141,5,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,2.0,11,0,0,4.59
+T2111,R102,2026-09-24,12:00,117,119,7,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,3.0,12,0,0,3.66
+T2112,R105,2026-09-09,18:45,73,76,4,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,1.0,18,1,0,4.87
+T2113,R101,2026-09-17,14:45,98,97,6,Corridor North,18.5,22,North-South,Thursday,0,0,,1,1,8.0,14,0,0,5.3
+T2114,R105,2026-09-12,19:15,56,55,3,Tech Park Shuttle,15.0,16,South-East,Saturday,1,0,Tech Expo,1,1,10.0,19,1,1,3.73
+T2115,R103,2026-09-25,17:00,67,63,4,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,2.0,17,1,0,5.49
+T2116,R102,2026-09-14,12:00,128,129,6,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,8.0,12,0,0,4.0
+T2117,R101,2026-09-15,20:30,105,97,4,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,0.0,20,0,0,5.68
+T2118,R105,2026-09-16,20:30,26,27,2,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,4.0,20,0,0,1.73
+T2119,R101,2026-09-22,18:45,63,63,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,10.0,18,1,0,3.41
+T2120,R101,2026-09-22,18:00,95,93,4,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,10.0,18,1,0,5.14
+T2121,R105,2026-09-28,08:15,124,120,5,Tech Park Shuttle,15.0,16,South-East,Monday,0,0,,1,1,13.0,8,1,0,8.27
+T2122,R104,2026-09-20,19:30,175,176,5,Suburban Link,24.8,28,West-East,Sunday,1,0,Marathon,1,1,2.0,19,1,1,7.06
+T2123,R101,2026-09-01,09:00,59,49,3,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,2.0,9,1,0,3.19
+T2124,R104,2026-09-10,07:30,113,114,5,Suburban Link,24.8,28,West-East,Thursday,0,0,,1,1,14.0,7,0,0,4.56
+T2125,R102,2026-09-08,12:30,99,90,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,17.0,12,0,0,3.09
+T2126,R101,2026-09-18,08:15,152,147,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,4.0,8,1,0,8.22
+T2127,R101,2026-09-28,14:45,98,90,4,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,1.0,14,0,0,5.3
+T2128,R103,2026-09-01,07:15,145,138,7,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,4.0,7,0,0,11.89
+T2129,R102,2026-09-02,21:30,86,84,4,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,6.0,21,0,0,2.69
+T2130,R101,2026-09-01,17:00,38,41,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,0.0,17,1,0,2.05
+T2131,R102,2026-09-01,13:00,155,145,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,4.0,13,0,0,4.84
+T2132,R101,2026-09-09,10:00,98,93,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,4.0,10,1,0,5.3
+T2133,R102,2026-09-13,14:45,58,50,3,Airport Express,32.0,14,East Express,Sunday,1,0,,1,1,7.0,14,0,0,1.81
+T2134,R101,2026-09-30,11:30,58,60,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,7.0,11,0,0,3.14
+T2135,R103,2026-09-01,10:00,68,72,3,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,6.0,10,1,0,5.57
+T2136,R101,2026-09-13,07:45,123,116,5,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,1.0,7,0,0,6.65
+T2137,R105,2026-09-20,19:45,114,118,6,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Marathon,1,1,0.0,19,1,1,7.6
+T2138,R102,2026-09-26,16:15,61,58,4,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,6.0,16,0,0,1.91
+T2139,R105,2026-09-22,08:30,201,193,6,Tech Park Shuttle,15.0,16,South-East,Tuesday,0,0,,1,1,4.0,8,1,0,13.4
+T2140,R104,2026-09-07,13:00,116,114,3,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,1.0,13,0,0,4.68
+T2141,R101,2026-09-02,17:30,159,141,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,0.0,17,1,0,8.59
+T2142,R105,2026-09-06,22:15,79,76,4,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,10.0,22,0,0,5.27
+T2143,R101,2026-09-07,09:00,115,109,5,Corridor North,18.5,22,North-South,Monday,0,0,,1,1,17.0,9,1,0,6.22
+T2144,R102,2026-09-26,20:30,178,178,7,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,4.0,20,0,0,5.56
+T2145,R102,2026-09-14,18:00,64,63,2,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,7.0,18,1,0,2.0
+T2146,R101,2026-09-26,20:30,55,57,4,Corridor North,18.5,22,North-South,Saturday,1,0,,1,1,7.0,20,0,0,2.97
+T2147,R101,2026-09-18,19:15,178,178,6,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,3.0,19,1,0,9.62
+T2148,R103,2026-09-15,08:30,182,169,7,Downtown Loop,12.2,18,Central,Tuesday,0,0,,1,1,3.0,8,1,0,14.92
+T2149,R104,2026-09-02,20:45,180,169,7,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,3.0,20,0,0,7.26
+T2150,R102,2026-09-10,12:00,164,156,6,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,2.0,12,0,0,5.12
+T2151,R101,2026-09-23,20:30,109,106,4,Corridor North,18.5,22,North-South,Wednesday,0,0,,1,1,5.0,20,0,0,5.89
+T2152,R101,2026-09-12,14:15,26,23,3,Corridor North,18.5,22,North-South,Saturday,1,0,Tech Expo,1,1,7.0,14,0,1,1.41
+T2153,R102,2026-09-17,06:30,224,209,5,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,6,0,0,7.0
+T2154,R102,2026-09-08,13:00,125,114,5,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,3.0,13,0,0,3.91
+T2155,R103,2026-09-11,15:45,110,113,4,Downtown Loop,12.2,18,Central,Friday,0,0,,1,1,4.0,15,0,0,9.02
+T2156,R104,2026-09-29,14:15,115,122,3,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,10.0,14,0,0,4.64
+T2157,R103,2026-09-03,21:45,114,120,6,Downtown Loop,12.2,18,Central,Thursday,0,0,,1,1,4.0,21,0,0,9.34
+T2158,R101,2026-09-27,20:45,60,65,3,Corridor North,18.5,22,North-South,Sunday,1,0,Music Fest,1,1,0.0,20,0,1,3.24
+T2159,R101,2026-09-06,19:00,172,160,6,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,3.0,19,1,0,9.3
+T2160,R103,2026-09-09,09:15,97,95,3,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,8.0,9,1,0,7.95
+T2161,R104,2026-09-06,21:00,46,49,3,Suburban Link,24.8,28,West-East,Sunday,1,0,,1,1,4.0,21,0,0,1.85
+T2162,R103,2026-09-09,08:00,200,204,7,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,9.0,8,1,0,16.39
+T2163,R104,2026-09-07,13:30,85,97,3,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,0.0,13,0,0,3.43
+T2164,R104,2026-09-09,06:45,50,48,3,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,0.0,6,0,0,2.02
+T2165,R105,2026-09-18,19:45,96,94,6,Tech Park Shuttle,15.0,16,South-East,Friday,0,0,,1,1,7.0,19,1,0,6.4
+T2166,R102,2026-09-12,11:30,48,53,3,Airport Express,32.0,14,East Express,Saturday,1,0,Tech Expo,1,1,7.0,11,0,1,1.5
+T2167,R104,2026-09-08,10:00,149,149,5,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,10.0,10,1,0,6.01
+T2168,R102,2026-09-08,19:30,155,148,6,Airport Express,32.0,14,East Express,Tuesday,0,0,,1,1,2.0,19,1,0,4.84
+T2169,R104,2026-09-18,11:00,171,172,6,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,13.0,11,0,0,6.9
+T2170,R104,2026-09-28,21:15,105,115,5,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,3.0,21,0,0,4.23
+T2171,R104,2026-09-30,13:00,80,81,3,Suburban Link,24.8,28,West-East,Wednesday,0,0,,1,1,4.0,13,0,0,3.23
+T2172,R105,2026-09-20,13:00,69,72,3,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Marathon,1,1,11.0,13,0,1,4.6
+T2173,R105,2026-09-30,10:15,118,122,6,Tech Park Shuttle,15.0,16,South-East,Wednesday,0,0,,1,1,1.0,10,1,0,7.87
+T2174,R101,2026-09-15,07:00,93,89,4,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,1.0,7,0,0,5.03
+T2175,R105,2026-09-27,21:45,69,65,4,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Music Fest,1,1,5.0,21,0,1,4.6
+T2176,R102,2026-09-07,20:30,123,122,6,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,7.0,20,0,0,3.84
+T2177,R102,2026-09-11,17:30,72,69,4,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,17.0,17,1,0,2.25
+T2178,R105,2026-09-20,05:00,80,88,7,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,Marathon,1,1,4.0,5,0,1,5.33
+T2179,R103,2026-09-16,07:15,110,106,5,Downtown Loop,12.2,18,Central,Wednesday,0,0,,1,1,12.0,7,0,0,9.02
+T2180,R102,2026-09-04,19:45,160,154,6,Airport Express,32.0,14,East Express,Friday,0,0,,1,1,10.0,19,1,0,5.0
+T2181,R105,2026-09-06,08:15,77,70,4,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,9.0,8,1,0,5.13
+T2182,R104,2026-09-26,21:30,102,104,4,Suburban Link,24.8,28,West-East,Saturday,1,0,,1,1,6.0,21,0,0,4.11
+T2183,R101,2026-09-22,15:45,138,140,5,Corridor North,18.5,22,North-South,Tuesday,0,0,,1,1,4.0,15,0,0,7.46
+T2184,R102,2026-09-26,07:45,147,137,5,Airport Express,32.0,14,East Express,Saturday,1,0,,1,1,18.0,7,0,0,4.59
+T2185,R102,2026-09-03,18:15,60,54,3,Airport Express,32.0,14,East Express,Thursday,0,0,,1,1,4.0,18,1,0,1.88
+T2186,R102,2026-09-09,05:15,53,57,5,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,2.0,5,0,0,1.66
+T2187,R102,2026-09-28,06:00,92,94,5,Airport Express,32.0,14,East Express,Monday,0,0,,1,1,7.0,6,0,0,2.88
+T2188,R105,2026-09-10,08:45,117,116,6,Tech Park Shuttle,15.0,16,South-East,Thursday,0,0,,1,1,0.0,8,1,0,7.8
+T2189,R104,2026-09-14,10:00,83,87,5,Suburban Link,24.8,28,West-East,Monday,0,0,,1,1,3.0,10,1,0,3.35
+T2190,R104,2026-09-11,05:00,126,135,7,Suburban Link,24.8,28,West-East,Friday,0,0,,1,1,2.0,5,0,0,5.08
+T2191,R101,2026-09-18,12:30,63,61,3,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,4.0,12,0,0,3.41
+T2192,R104,2026-09-22,05:00,49,47,3,Suburban Link,24.8,28,West-East,Tuesday,0,0,,1,1,6.0,5,0,0,1.98
+T2193,R104,2026-09-12,20:15,158,164,5,Suburban Link,24.8,28,West-East,Saturday,1,0,Tech Expo,1,1,6.0,20,0,1,6.37
+T2194,R102,2026-09-23,12:00,127,135,6,Airport Express,32.0,14,East Express,Wednesday,0,0,,1,1,7.0,12,0,0,3.97
+T2195,R104,2026-09-12,20:45,142,140,7,Suburban Link,24.8,28,West-East,Saturday,1,0,Tech Expo,1,1,4.0,20,0,1,5.73
+T2196,R101,2026-09-13,07:30,81,84,3,Corridor North,18.5,22,North-South,Sunday,1,0,,1,1,1.0,7,0,0,4.38
+T2197,R101,2026-09-25,16:45,60,60,5,Corridor North,18.5,22,North-South,Friday,0,0,,1,1,1.0,16,0,0,3.24
+T2198,R105,2026-09-13,15:15,120,124,6,Tech Park Shuttle,15.0,16,South-East,Sunday,1,0,,1,1,21.0,15,0,0,8.0
+T2199,R102,2026-09-19,08:45,51,59,3,Airport Express,32.0,14,East Express,Saturday,1,1,,1,1,1.0,8,1,0,1.59
